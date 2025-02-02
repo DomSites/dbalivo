@@ -1,0 +1,3091 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-15 19:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ut-shortcode-functions.php:289 ut-shortcode-functions.php:350
+#: ut-shortcode-functions.php:1775 shortcodes/blog.php:107
+msgid "No Comments"
+msgstr ""
+
+#: ut-shortcode-functions.php:290 ut-shortcode-functions.php:352
+#: ut-shortcode-functions.php:1775 shortcodes/blog.php:107
+msgid "1 Comment"
+msgstr ""
+
+#: ut-shortcode-functions.php:291 ut-shortcode-functions.php:348
+#: ut-shortcode-functions.php:1775 shortcodes/blog.php:107
+msgid "% Comments"
+msgstr ""
+
+#: ut-shortcode-functions.php:292
+msgid "Comments Off"
+msgstr ""
+
+#: ut-shortcode-functions.php:304
+msgid "Enter your password to view comments . "
+msgstr ""
+
+#: ut-shortcode-functions.php:331
+#, php-format
+msgid "Comment on %s"
+msgstr ""
+
+#: ut-shortcode-functions.php:752
+msgid "Video Testimonial"
+msgstr ""
+
+#: ut-shortcode-functions.php:1075
+msgid ""
+"Please make sure you have entered all necessary Twitter API Keys under "
+"Dashboard -> Settings -> Twitter"
+msgstr ""
+
+#: ut-shortcode-functions.php:1113
+msgid "An Error has occured, no Twitter Feeds are available"
+msgstr ""
+
+#: ut-shortcode-functions.php:1163 ut-shortcode-functions.php:1244
+msgid " about "
+msgstr ""
+
+#: ut-shortcode-functions.php:1495
+msgid "Video"
+msgstr ""
+
+#: ut-shortcode-functions.php:1726 ut-shortcode-functions.php:1907
+#: ut-shortcode-functions.php:1924 ut-shortcode-functions.php:1928
+#: shortcodes/blog.php:62 shortcodes/blog.php:224 shortcodes/blog.php:241
+#: shortcodes/blog.php:245
+msgctxt "Read More Stuff"
+msgid "Read More Stuff"
+msgstr ""
+
+#: ut-shortcode-functions.php:1760 ut-shortcode-functions.php:1788
+#: shortcodes/blog.php:93 shortcodes/blog.php:120
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: ut-shortcode-functions.php:1769 shortcodes/blog.php:102
+msgid "Sticky Post"
+msgstr ""
+
+#: ut-shortcode-functions.php:1771 shortcodes/blog.php:103
+msgid "On"
+msgstr ""
+
+#: ut-shortcode-functions.php:1775 shortcodes/blog.php:107
+msgid "With"
+msgstr ""
+
+#: ut-shortcode-functions.php:1811 ut-shortcode-functions.php:1827
+#: ut-shortcode-functions.php:1841 shortcodes/blog.php:142
+#: shortcodes/blog.php:158 shortcodes/blog.php:172
+msgctxt "Read more Stuff"
+msgid "Read more Stuff"
+msgstr ""
+
+#: ut-shortcode-functions.php:2013
+msgid "value :"
+msgstr ""
+
+#: ut-shortcode-functions.php:2018
+msgid "value : color hex"
+msgstr ""
+
+#: ut-shortcode-functions.php:2023
+msgid "value : iconname"
+msgstr ""
+
+#: ut-shortcode-functions.php:2023
+msgid "list of icons names"
+msgstr ""
+
+#: ut-shortcode-functions.php:2028
+msgid "optional CSS class or classes"
+msgstr ""
+
+#: ut-shortcode-functions.php:2032
+msgid "value: custom value"
+msgstr ""
+
+#: ut-shortcode-functions.php:2037
+msgid "value : effectname"
+msgstr ""
+
+#: ut-shortcode-functions.php:2037
+msgid "list of effect names"
+msgstr ""
+
+#: deprecated.php:406
+msgid "Please insert only a valid video ID"
+msgstr ""
+
+#: deprecated.php:728
+msgid "No Image Selected"
+msgstr ""
+
+#: admin/ut.sc.functions.php:28
+msgid "Manage Tabs"
+msgstr ""
+
+#: admin/ut.sc.functions.php:34 admin/ut.sc.functions.php:182
+#: admin/ut.sc.functions.php:649 admin/ut.buttons.popup.php:143
+#: admin/ut.sc.definitions.php:872 shortcodes/single-quote.php:42
+#: shortcodes/title-divider.php:37 shortcodes/fancy-image.php:49
+#: shortcodes/portfolio-details.php:55 shortcodes/progress-circle.php:117
+#: shortcodes/header.php:67 shortcodes/team-member.php:79
+#: shortcodes/media-slider.php:49 shortcodes/big-icon.php:66
+msgid "Title"
+msgstr ""
+
+#: admin/ut.sc.functions.php:44 admin/ut.sc.functions.php:192
+#: shortcodes/icon-tabs.php:152
+msgid "Tab Content"
+msgstr ""
+
+#: admin/ut.sc.functions.php:56 admin/ut.sc.functions.php:204
+msgid "Add Tab"
+msgstr ""
+
+#: admin/ut.sc.functions.php:60
+msgid "Manage Video Testimonials"
+msgstr ""
+
+#: admin/ut.sc.functions.php:66 admin/ut.sc.functions.php:572
+#: admin/ut.sc.functions.php:616 admin/ut.sc.definitions.php:862
+#: shortcodes/quote-rotator-2.php:237 shortcodes/quote-rotator.php:239
+msgid "Author"
+msgstr ""
+
+#: admin/ut.sc.functions.php:76 admin/ut.sc.definitions.php:867
+msgid "Company"
+msgstr ""
+
+#: admin/ut.sc.functions.php:86 admin/ut.sc.definitions.php:1405
+#: shortcodes/media-slider.php:113
+msgid "Poster Image"
+msgstr ""
+
+#: admin/ut.sc.functions.php:91
+msgid "Add Poster Image"
+msgstr ""
+
+#: admin/ut.sc.functions.php:97
+msgid "Video Source"
+msgstr ""
+
+#: admin/ut.sc.functions.php:102
+msgid "You can insert one of these video sources:"
+msgstr ""
+
+#: admin/ut.sc.functions.php:104
+msgid "WordPress Video Shortcode"
+msgstr ""
+
+#: admin/ut.sc.functions.php:105
+msgid "WordPress Embeds"
+msgstr ""
+
+#: admin/ut.sc.functions.php:115
+msgid "Activate Boxed Layout?"
+msgstr ""
+
+#: admin/ut.sc.functions.php:121
+msgid "no, thanks!"
+msgstr ""
+
+#: admin/ut.sc.functions.php:122
+msgid "yes, please!"
+msgstr ""
+
+#: admin/ut.sc.functions.php:132
+msgid "Choose Style"
+msgstr ""
+
+#: admin/ut.sc.functions.php:138 admin/ut.buttons.popup.php:195
+#: shortcodes/button.php:56
+msgid "Dark"
+msgstr ""
+
+#: admin/ut.sc.functions.php:139
+msgid "Light"
+msgstr ""
+
+#: admin/ut.sc.functions.php:153 admin/ut.sc.definitions.php:634
+#: shortcodes/service-box.php:82 shortcodes/service-column-vertical.php:109
+#: shortcodes/animated-image.php:94 shortcodes/image-gallery.php:210
+#: shortcodes/service-column.php:124 shortcodes/service-icon-box.php:135
+msgid "Animation Effect"
+msgstr ""
+
+#: admin/ut.sc.functions.php:172
+msgid "Add Video Testimonial"
+msgstr ""
+
+#: admin/ut.sc.functions.php:176
+msgid "Manage Vertical Image Tabs"
+msgstr ""
+
+#: admin/ut.sc.functions.php:208
+msgid "Manage Left Service Boxes"
+msgstr ""
+
+#: admin/ut.sc.functions.php:215 admin/ut.sc.functions.php:358
+msgid "Service Box 1"
+msgstr ""
+
+#: admin/ut.sc.functions.php:219 admin/ut.sc.functions.php:262
+#: admin/ut.sc.functions.php:305 admin/ut.sc.functions.php:362
+#: admin/ut.sc.functions.php:405 admin/ut.sc.functions.php:448
+#: admin/ut.sc.definitions.php:751
+msgid "Box Title"
+msgstr ""
+
+#: admin/ut.sc.functions.php:229 admin/ut.sc.functions.php:272
+#: admin/ut.sc.functions.php:315 admin/ut.sc.functions.php:372
+#: admin/ut.sc.functions.php:415 admin/ut.sc.functions.php:458
+msgid "Box Content"
+msgstr ""
+
+#: admin/ut.sc.functions.php:239 admin/ut.sc.functions.php:282
+#: admin/ut.sc.functions.php:325 admin/ut.sc.functions.php:382
+#: admin/ut.sc.functions.php:425 admin/ut.sc.functions.php:468
+msgid "Box Icon"
+msgstr ""
+
+#: admin/ut.sc.functions.php:244 admin/ut.sc.functions.php:287
+#: admin/ut.sc.functions.php:330 admin/ut.sc.functions.php:387
+#: admin/ut.sc.functions.php:430 admin/ut.sc.functions.php:473
+#: admin/ut.sc.functions.php:864 admin/ut.sc.generator.php:915
+#: admin/ut.icons.popup.php:381 admin/ut.icons.popup.php:385
+#: admin/ut.icons.popup.php:650 shortcodes/service-box.php:35
+#: shortcodes/service-column-vertical.php:36 shortcodes/service-column.php:37
+#: shortcodes/service-icon-box.php:35 shortcodes/progress-circle.php:62
+#: shortcodes/count-up.php:37 shortcodes/big-icon.php:36
+msgid "Choose Icon"
+msgstr ""
+
+#: admin/ut.sc.functions.php:250 admin/ut.sc.functions.php:293
+#: admin/ut.sc.functions.php:336 admin/ut.sc.functions.php:393
+#: admin/ut.sc.functions.php:436 admin/ut.sc.functions.php:479
+#: admin/ut.sc.definitions.php:350 admin/ut.sc.definitions.php:483
+#: admin/ut.sc.definitions.php:559 shortcodes/icon-tabs.php:160
+#: shortcodes/parallax-quote.php:71 shortcodes/service-box.php:41
+#: shortcodes/service-column-vertical.php:49 shortcodes/service-column.php:50
+#: shortcodes/service-icon-box.php:48 shortcodes/progress-circle.php:215
+#: shortcodes/fancy-list.php:98 shortcodes/count-up.php:50
+#: shortcodes/big-icon.php:115
+msgid "Icon Color"
+msgstr ""
+
+#: admin/ut.sc.functions.php:258 admin/ut.sc.functions.php:401
+msgid "Service Box 2"
+msgstr ""
+
+#: admin/ut.sc.functions.php:301 admin/ut.sc.functions.php:444
+msgid "Service Box 3"
+msgstr ""
+
+#: admin/ut.sc.functions.php:351
+msgid "Manage Right Service Boxes"
+msgstr ""
+
+#: admin/ut.sc.functions.php:496
+msgid "Manage Clients"
+msgstr ""
+
+#: admin/ut.sc.functions.php:502 shortcodes/client-group.php:175
+msgid "Client Name"
+msgstr ""
+
+#: admin/ut.sc.functions.php:510
+msgid "Client URL"
+msgstr ""
+
+#: admin/ut.sc.functions.php:518
+msgid "Logo"
+msgstr ""
+
+#: admin/ut.sc.functions.php:523
+msgid "Add Logo"
+msgstr ""
+
+#: admin/ut.sc.functions.php:531
+msgid "Add Client"
+msgstr ""
+
+#: admin/ut.sc.functions.php:535
+msgid "Manage Images"
+msgstr ""
+
+#: admin/ut.sc.functions.php:541 admin/ut.sc.definitions.php:427
+#: admin/ut.sc.definitions.php:669 admin/ut.sc.definitions.php:1333
+#: shortcodes/fancy-image.php:79 shortcodes/portfolio-details.php:75
+#: shortcodes/animated-image.php:83 shortcodes/fancy-link.php:39
+#: shortcodes/service-icon-box.php:103 shortcodes/fancy-list.php:85
+#: shortcodes/team-member.php:94 shortcodes/media-slider.php:91
+#: shortcodes/big-icon.php:60
+msgid "Link"
+msgstr ""
+
+#: admin/ut.sc.functions.php:549
+msgid "Upload Image"
+msgstr ""
+
+#: admin/ut.sc.functions.php:554 admin/ut.sc.functions.php:562
+msgid "Add Image"
+msgstr ""
+
+#: admin/ut.sc.functions.php:566 admin/ut.sc.functions.php:610
+msgid "Manage Quotes"
+msgstr ""
+
+#: admin/ut.sc.functions.php:582 admin/ut.sc.definitions.php:877
+#: shortcodes/single-quote.php:36 shortcodes/quote-rotator-2.php:231
+#: shortcodes/team-member.php:50 shortcodes/quote-rotator.php:233
+msgid "Avatar"
+msgstr ""
+
+#: admin/ut.sc.functions.php:587
+msgid "Add Avatar"
+msgstr ""
+
+#: admin/ut.sc.functions.php:593 admin/ut.sc.functions.php:626
+#: shortcodes/parallax-quote.php:52 shortcodes/quote-rotator-2.php:223
+#: shortcodes/quote-rotator-2.php:244 shortcodes/quote-rotator.php:225
+#: shortcodes/quote-rotator.php:246
+msgid "Quote"
+msgstr ""
+
+#: admin/ut.sc.functions.php:606 admin/ut.sc.functions.php:639
+msgid "Add Quote"
+msgstr ""
+
+#: admin/ut.sc.functions.php:643
+msgid "Manage Accordion"
+msgstr ""
+
+#: admin/ut.sc.functions.php:659 admin/ut.sc.functions.php:773
+#: admin/ut.sc.generator.php:884
+msgid "Content"
+msgstr ""
+
+#: admin/ut.sc.functions.php:667
+msgid "State"
+msgstr ""
+
+#: admin/ut.sc.functions.php:673
+msgid "closed"
+msgstr ""
+
+#: admin/ut.sc.functions.php:674
+msgid "open"
+msgstr ""
+
+#: admin/ut.sc.functions.php:684
+msgid "Add Accordion"
+msgstr ""
+
+#: admin/ut.sc.functions.php:688
+msgid "Manage Social Media List"
+msgstr ""
+
+#: admin/ut.sc.functions.php:694
+msgid "Profile Title"
+msgstr ""
+
+#: admin/ut.sc.functions.php:704
+msgid "Link to Profile"
+msgstr ""
+
+#: admin/ut.sc.functions.php:714 admin/ut.buttons.popup.php:150
+#: admin/ut.sc.definitions.php:433 admin/ut.sc.definitions.php:675
+msgid "Target"
+msgstr ""
+
+#: admin/ut.sc.functions.php:728 admin/ut.sc.definitions.php:365
+#: admin/ut.sc.definitions.php:422 admin/ut.sc.definitions.php:493
+#: admin/ut.sc.definitions.php:564 admin/ut.sc.definitions.php:720
+#: shortcodes/icon-tabs.php:111 shortcodes/icon-tabs.php:121
+#: shortcodes/fancy-list.php:68 shortcodes/team-member.php:74
+msgid "Icon"
+msgstr ""
+
+#: admin/ut.sc.functions.php:785
+msgid "Add Profile"
+msgstr ""
+
+#: admin/ut.sc.functions.php:790
+msgid "Manage Bars"
+msgstr ""
+
+#: admin/ut.sc.functions.php:797 admin/ut.sc.functions.php:818
+#: shortcodes/probar.php:45 shortcodes/probar-2.php:45
+msgid "Width"
+msgstr ""
+
+#: admin/ut.sc.functions.php:805 admin/ut.sc.functions.php:821
+msgid "Bar Text"
+msgstr ""
+
+#: admin/ut.sc.functions.php:828
+msgid "Add Bar to Group"
+msgstr ""
+
+#: admin/ut.sc.functions.php:834
+msgid "last column"
+msgstr ""
+
+#: admin/ut.sc.functions.php:1039
+msgid "Choose"
+msgstr ""
+
+#: admin/ut.sc.functions.php:1088
+msgid "Choose Effect"
+msgstr ""
+
+#: admin/ut.sc.functions.php:1148
+msgid "Choose Shortcode"
+msgstr ""
+
+#: admin/ut.sc.functions.php:1191
+msgid "Shortcode Settings:"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:15 admin/ut.buttons.popup.php:212
+msgid "Insert Button"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:121
+msgid "Button Generator"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:129
+msgid "URL"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:136 shortcodes/call-to-action.php:55
+#: shortcodes/service-box.php:67 shortcodes/service-column.php:96
+#: shortcodes/service-icon-box.php:90
+msgid "Text"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:154
+msgid "Self"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:155
+msgid "Blank"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:160
+msgid "Size"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:164 shortcodes/button.php:34
+msgid "Small"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:165 shortcodes/animated-image.php:50
+#: shortcodes/image-gallery.php:56 shortcodes/button.php:35
+msgid "Medium"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:166 shortcodes/animated-image.php:51
+#: shortcodes/image-gallery.php:57 shortcodes/button.php:36
+msgid "Large"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:171
+msgid "Shape"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:175 shortcodes/button.php:65
+msgid "Normal"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:176 shortcodes/button.php:66
+msgid "Round"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:181 admin/ut.sc.definitions.php:412
+msgid "Color"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:185 shortcodes/button.php:46
+msgid "Red"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:186 shortcodes/button.php:47
+msgid "Turquoise"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:187 shortcodes/button.php:48
+msgid "Green"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:188 shortcodes/button.php:49
+msgid "Blue"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:189 shortcodes/button.php:50
+msgid "Mid Blue"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:190 shortcodes/button.php:51
+msgid "Yellow"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:191 shortcodes/button.php:52
+msgid "Purple"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:192 admin/ut.sc.definitions.php:1256
+#: shortcodes/button.php:53
+msgid "Grey"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:193 shortcodes/button.php:54
+msgid "Orange"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:194 shortcodes/button.php:55
+msgid "Theme Button"
+msgstr ""
+
+#: admin/ut.buttons.popup.php:200
+msgid "Class (optional)"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:13
+msgid "Column Shortcodes"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:19
+msgid "One Sixth Column"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:24 admin/ut.sc.definitions.php:52
+#: admin/ut.sc.definitions.php:80 admin/ut.sc.definitions.php:107
+#: admin/ut.sc.definitions.php:135 admin/ut.sc.definitions.php:163
+#: admin/ut.sc.definitions.php:190 admin/ut.sc.definitions.php:226
+#: admin/ut.sc.definitions.php:276 admin/ut.sc.definitions.php:336
+#: admin/ut.sc.definitions.php:398 admin/ut.sc.definitions.php:468
+#: admin/ut.sc.definitions.php:545 admin/ut.sc.definitions.php:615
+#: admin/ut.sc.definitions.php:681 admin/ut.sc.definitions.php:737
+#: admin/ut.sc.definitions.php:829 admin/ut.sc.definitions.php:848
+#: admin/ut.sc.definitions.php:922 admin/ut.sc.definitions.php:1023
+#: admin/ut.sc.definitions.php:1068 admin/ut.sc.definitions.php:1145
+#: admin/ut.sc.definitions.php:1165 admin/ut.sc.definitions.php:1201
+#: admin/ut.sc.definitions.php:1220 admin/ut.sc.definitions.php:1299
+#: admin/ut.sc.definitions.php:1319 admin/ut.sc.definitions.php:1338
+#: admin/ut.sc.definitions.php:1363 admin/ut.sc.definitions.php:1388
+#: admin/ut.sc.definitions.php:1418
+msgid "Optional Class"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:29 admin/ut.sc.definitions.php:57
+#: admin/ut.sc.definitions.php:85 admin/ut.sc.definitions.php:112
+#: admin/ut.sc.definitions.php:140 admin/ut.sc.definitions.php:168
+#: admin/ut.sc.definitions.php:195
+msgid "Last Column"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:34 admin/ut.sc.definitions.php:62
+#: admin/ut.sc.definitions.php:90 admin/ut.sc.definitions.php:117
+#: admin/ut.sc.definitions.php:145 admin/ut.sc.definitions.php:173
+#: admin/ut.sc.definitions.php:200 admin/ut.sc.definitions.php:381
+#: admin/ut.sc.definitions.php:451 admin/ut.sc.definitions.php:528
+#: admin/ut.sc.definitions.php:599 admin/ut.sc.definitions.php:820
+#: admin/ut.sc.definitions.php:905 admin/ut.sc.definitions.php:1263
+msgid "Optional Animation Effect"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:38 admin/ut.sc.definitions.php:66
+#: admin/ut.sc.definitions.php:94 admin/ut.sc.definitions.php:121
+#: admin/ut.sc.definitions.php:149 admin/ut.sc.definitions.php:177
+#: admin/ut.sc.definitions.php:204 admin/ut.sc.definitions.php:326
+#: admin/ut.sc.definitions.php:386 admin/ut.sc.definitions.php:456
+#: admin/ut.sc.definitions.php:533 admin/ut.sc.definitions.php:604
+#: admin/ut.sc.definitions.php:640 admin/ut.sc.definitions.php:824
+#: admin/ut.sc.definitions.php:910 admin/ut.sc.definitions.php:1268
+msgid "Animate Once"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:47
+msgid "One Fifth Column"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:75
+msgid "One Third Column"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:102
+msgid "Two Thirds Column"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:130
+msgid "One Half Column"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:158
+msgid "One Fourth Column"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:185
+msgid "Three Fourths Column"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:212
+msgid "Spacer"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:216 admin/ut.sc.definitions.php:657
+#: admin/ut.sc.definitions.php:1159
+msgid "Margin Top"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:217 admin/ut.sc.definitions.php:222
+#: admin/ut.sc.definitions.php:309
+msgid "value in px , eg \"20\" (optional)"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:221 admin/ut.sc.definitions.php:308
+#: admin/ut.sc.definitions.php:522 admin/ut.sc.definitions.php:593
+#: admin/ut.sc.definitions.php:663 admin/ut.sc.definitions.php:916
+#: shortcodes/fancy-image.php:85
+msgid "Margin Bottom"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:240
+msgid "Elements"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:247 shortcodes/blog.php:27
+msgid "Blog Excerpt"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:252 shortcodes/call-to-action.php:67
+#: shortcodes/button.php:87 shortcodes/btn.php:38
+msgid "Button Text"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:253
+msgid "Text for link to main blog"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:258
+msgid "Excerpt Length"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:259 admin/ut.sc.definitions.php:1414
+msgid "(optional)"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:264
+msgid "Show Posts by Category <br />ID"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:265
+msgid ""
+"Show Posts From Several Categories <br />by Category ID ( separate by comma "
+"for multiple IDs )"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:270
+msgid "Show Posts by Category <br />Slug"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:271
+msgid ""
+"Show Posts From Several Categories <br />by Category Slug ( separate by "
+"comma for multiple Slugs )"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:285
+msgid "Highlight Section"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:290 admin/ut.sc.definitions.php:629
+#: shortcodes/fancy-image.php:31 shortcodes/animated-image.php:36
+#: shortcodes/media-slider.php:66
+msgid "Image"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:295
+msgid "Image Orientation"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:296
+msgid "Please select the image orientation of the uploaded image"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:302
+msgid "Image Effect"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:303
+msgid "Optional Image Animation Effect"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:314
+msgid "Effect for Left Service Boxes"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:315
+msgid "Optional Animation Effect for \"Left Service Boxes\""
+msgstr ""
+
+#: admin/ut.sc.definitions.php:320
+msgid "Effect for Right Service Boxes"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:321
+msgid "Optional Animation Effect for \"Right Service Boxes\""
+msgstr ""
+
+#: admin/ut.sc.definitions.php:345
+msgid "Icon Box"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:355 shortcodes/parallax-quote.php:78
+#: shortcodes/service-box.php:47 shortcodes/service-column-vertical.php:55
+#: shortcodes/service-column.php:56 shortcodes/service-icon-box.php:60
+#: shortcodes/big-icon.php:121
+msgid "Icon Background Color"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:360
+msgid "Background Opacity"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:370 admin/ut.sc.definitions.php:439
+#: admin/ut.sc.definitions.php:504 admin/ut.sc.definitions.php:581
+#: shortcodes/call-to-action.php:35 shortcodes/service-box.php:53
+#: shortcodes/service-column-vertical.php:74 shortcodes/service-column.php:76
+#: shortcodes/service-icon-box.php:77
+msgid "Headline"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:375 admin/ut.sc.definitions.php:445
+#: admin/ut.sc.definitions.php:516 admin/ut.sc.definitions.php:587
+#: admin/ut.sc.definitions.php:725 admin/ut.sc.definitions.php:893
+msgid "Box Width"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:392 admin/ut.sc.definitions.php:462
+#: admin/ut.sc.definitions.php:539 admin/ut.sc.definitions.php:610
+#: admin/ut.sc.definitions.php:731 admin/ut.sc.definitions.php:899
+#: admin/ut.sc.definitions.php:963 admin/ut.sc.definitions.php:1005
+#: admin/ut.sc.definitions.php:1062 admin/ut.sc.definitions.php:1094
+#: admin/ut.sc.definitions.php:1120
+msgid "Last in row"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:407 shortcodes/service-icon-box.php:27
+msgid "Service Icon Box"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:417
+msgid "Hover Color"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:428
+msgid "Don't forget to put \"http://\" in front of your url"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:440
+msgid "Box Headline"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:478
+msgid "Service Column Horizontal"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:488 admin/ut.sc.definitions.php:575
+msgid "Background Icon Color"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:498 admin/ut.sc.definitions.php:569
+#: shortcodes/service-column-vertical.php:62 shortcodes/service-column.php:66
+#: shortcodes/big-icon.php:49
+msgid "Icon Shape"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:505
+msgid "Column Headline"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:510 admin/ut.sc.definitions.php:646
+#: shortcodes/icon-tabs.php:46 shortcodes/service-column.php:110
+#: shortcodes/service-icon-box.php:120 shortcodes/header.php:56
+#: shortcodes/team-member.php:113
+msgid "Alignment"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:523 admin/ut.sc.definitions.php:594
+#: admin/ut.sc.definitions.php:658 admin/ut.sc.definitions.php:664
+#: admin/ut.sc.definitions.php:917 admin/ut.sc.definitions.php:1160
+msgid "value in px , eg \"20\""
+msgstr ""
+
+#: admin/ut.sc.definitions.php:554 shortcodes/service-column-vertical.php:27
+msgid "Service Column Vertical"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:576
+msgid "( only for shape round )"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:624
+msgid "Animated Image"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:652
+msgid "Image alt"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:670
+msgid "Optional Link"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:690 shortcodes/count-up.php:27
+msgid "Count Up Box"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:695 shortcodes/count-up.php:56
+msgid "Counter Color"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:700
+msgid "Counter Description Color"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:705
+msgid "Count up to this value"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:710
+msgid "Counter Background Color"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:715
+msgid "Counter Background Opacity"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:746
+msgid "Custom Box"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:755
+msgid "Box Logo"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:759
+msgid "Box Text Colors (optional)"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:763 shortcodes/single-quote.php:121
+#: shortcodes/fancy-image.php:55 shortcodes/portfolio-details.php:110
+#: shortcodes/progress-circle.php:197 shortcodes/header.php:161
+#: shortcodes/big-icon.php:147
+msgid "Title Color"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:767 shortcodes/call-to-action.php:61
+#: shortcodes/call-to-action.php:88 shortcodes/service-box.php:74
+#: shortcodes/service-icon-box.php:97 shortcodes/fancy-list.php:104
+#: shortcodes/btn.php:59
+msgid "Text Color"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:771
+msgid "Box Colors (optional)"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:775 admin/ut.sc.definitions.php:1239
+#: shortcodes/call-to-action.php:100 shortcodes/btn.php:65
+msgid "Background Color"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:779
+msgid "Border Settings (optional)"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:783 shortcodes/call-to-action.php:185
+#: shortcodes/btn.php:176
+msgid "Border Width"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:784 admin/ut.sc.definitions.php:798
+msgid "value in px , eg \"1\""
+msgstr ""
+
+#: admin/ut.sc.definitions.php:788 shortcodes/call-to-action.php:165
+#: shortcodes/btn.php:155
+msgid "Border Style"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:793 shortcodes/call-to-action.php:145
+#: shortcodes/fancy-image.php:43 shortcodes/social-share-bar.php:90
+#: shortcodes/btn.php:133
+msgid "Border Color"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:797 shortcodes/call-to-action.php:201
+#: shortcodes/probar.php:95 shortcodes/btn.php:111
+msgid "Border Radius"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:802
+msgid "Margin & Padding (optional)"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:806
+msgid "Margin"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:807
+msgid "(outer box spacing)"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:811
+msgid "Padding"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:812
+msgid "(inner box spacing)"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:816
+msgid "Misc Settings (optional)"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:839
+msgid "Social Media Icon List"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:857
+msgid "Single Quote"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:882
+msgid "Date of Quote"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:887 shortcodes/single-quote.php:71
+msgid "Rating"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:931
+msgid "Quote Rotator ( with Avatar )"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:940 admin/ut.sc.definitions.php:982
+#: admin/ut.sc.definitions.php:1051
+msgid "Rotation Speed in ms"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:945 admin/ut.sc.definitions.php:987
+msgid "Autoplay"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:951 admin/ut.sc.definitions.php:993
+msgid "Randomize"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:957 admin/ut.sc.definitions.php:999
+#: admin/ut.sc.definitions.php:1056
+msgid "Rotator Width"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:973
+msgid "Quote Rotator (without Avatar)"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1014
+msgid "Video Testimonials"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1035
+msgid "Twitter Rotator"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1040
+msgid "Tweets to display"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1045
+msgid "Show Avatar"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1079
+msgid "Accordion / Toggle"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1088
+msgid "Toggle Width"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1105
+msgid "Tabs"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1114
+msgid "Tab Width"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1130
+msgid "Clients"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1139
+msgid "Display as Carousel"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1154 shortcodes/title-divider.php:27
+msgid "Title Divider"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1173
+msgid "Blockquote (left)"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1179
+msgid "Blockquote (right)"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1186
+msgid "Dropcap"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1194 shortcodes/header.php:43
+msgid "Style One"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1195 shortcodes/header.php:44
+msgid "Style Two"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1210 shortcodes/parallax-quote.php:26
+msgid "Parallax Quote"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1215 shortcodes/parallax-quote.php:45
+msgid "Cite"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1229
+msgid "Highlight"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1234 shortcodes/letter-effects.php:63
+#: shortcodes/word-rotator.php:58
+msgid "Font Color"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1247
+msgid "Message Box"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1255
+msgid "White"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1257
+msgid "Themecolor"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1278
+msgid "Single Progress Bar"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1283
+msgid "Percentage ( required )"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1288
+msgid "Info Text"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1293 shortcodes/probar.php:76
+#: shortcodes/probar-2.php:76
+msgid "Bar Color"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1294
+msgid "optional : default themecolor"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1309
+msgid "Word Rotator (comma seperated words)"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1314
+msgid "Animation Speed"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1328 shortcodes/fancy-link.php:22
+msgid "Fancy Link"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1347
+msgid "Vimeo Video"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1352 admin/ut.sc.definitions.php:1377
+msgid ""
+"This Shortcode is deprecated. And will be dropped in a future update. Please "
+"use the \"United Video\" Shortcode instead!"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1357 admin/ut.sc.definitions.php:1382
+msgid "Video ID"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1358
+msgid "only the video ID , eg \"23237102\""
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1372
+msgid "Youtube Video"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1383
+msgid "only the video ID , eg \"gvt_YFuZ8LA\""
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1396
+msgid "United Video"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1400 shortcodes/media-slider.php:101
+msgid "Video URL"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1401
+msgid ""
+"only the video URL eg \"http://vimeo.com/62375781\". You can find a full "
+"list of currently supported URLs <a href=\"http://codex.wordpress."
+"org/Embeds\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1406
+msgid ""
+"(required). This poster image will be displayed until the user decides to "
+"play the video. This saves bandwidth and increases the page speed!"
+msgstr ""
+
+#: admin/ut.sc.definitions.php:1426
+msgid "Clear"
+msgstr ""
+
+#: admin/ut.sc.generator.php:21 admin/ut.sc.generator.php:906
+#: shortcodes/custom-shortcode.php:37
+msgid "Insert Shortcode"
+msgstr ""
+
+#: admin/ut.sc.generator.php:876
+msgid "Shortcode Generator"
+msgstr ""
+
+#: admin/ut.sc.generator.php:892
+msgid "Shortcode Preview:"
+msgstr ""
+
+#: admin/ut.sc.generator.php:897
+msgid "Select a Shortcode above"
+msgstr ""
+
+#: admin/ut.sc.generator.php:937 admin/ut.icons.popup.php:672
+msgid "Close"
+msgstr ""
+
+#: admin/ut.icons.popup.php:20 admin/ut.icons.popup.php:370
+msgid "Icon Generator"
+msgstr ""
+
+#: admin/ut.icons.popup.php:374
+msgid "Main Settings"
+msgstr ""
+
+#: admin/ut.icons.popup.php:375 admin/ut.icons.popup.php:531
+#: admin/ut.icons.popup.php:606
+msgid "Preview"
+msgstr ""
+
+#: admin/ut.icons.popup.php:391
+msgid "Size:"
+msgstr ""
+
+#: admin/ut.icons.popup.php:398 shortcodes/call-to-action.php:123
+#: shortcodes/btn.php:94
+msgid "large"
+msgstr ""
+
+#: admin/ut.icons.popup.php:401
+msgid "2x"
+msgstr ""
+
+#: admin/ut.icons.popup.php:404
+msgid "3x"
+msgstr ""
+
+#: admin/ut.icons.popup.php:407
+msgid "4x"
+msgstr ""
+
+#: admin/ut.icons.popup.php:410
+msgid "5x"
+msgstr ""
+
+#: admin/ut.icons.popup.php:419
+msgid "Spin:"
+msgstr ""
+
+#: admin/ut.icons.popup.php:427 shortcodes/team-member.php:192
+msgid "on"
+msgstr ""
+
+#: admin/ut.icons.popup.php:431 shortcodes/team-member.php:193
+msgid "off"
+msgstr ""
+
+#: admin/ut.icons.popup.php:441
+msgid "Background Shape:"
+msgstr ""
+
+#: admin/ut.icons.popup.php:450 admin/ut.icons.popup.php:585
+#: shortcodes/fancy-list.php:41
+msgid "none"
+msgstr ""
+
+#: admin/ut.icons.popup.php:454
+msgid "cirle"
+msgstr ""
+
+#: admin/ut.icons.popup.php:458 shortcodes/fancy-list.php:45
+#: shortcodes/big-icon.php:54
+msgid "square"
+msgstr ""
+
+#: admin/ut.icons.popup.php:469
+msgid "Color:"
+msgstr ""
+
+#: admin/ut.icons.popup.php:481
+msgid "Background Color:"
+msgstr ""
+
+#: admin/ut.icons.popup.php:487
+msgid "only available for icons with backgroundshape"
+msgstr ""
+
+#: admin/ut.icons.popup.php:494
+msgid "Rotate:"
+msgstr ""
+
+#: admin/ut.icons.popup.php:502 shortcodes/icon-tabs.php:64
+#: shortcodes/call-to-action.php:122 shortcodes/parallax-quote.php:232
+#: shortcodes/parallax-quote.php:262 shortcodes/parallax-quote.php:374
+#: shortcodes/service-column-vertical.php:68 shortcodes/service-column.php:70
+#: shortcodes/progress-circle.php:107 shortcodes/progress-circle.php:143
+#: shortcodes/social-share-bar.php:51 shortcodes/header.php:185
+#: shortcodes/btn.php:93 shortcodes/btn.php:220
+#: shortcodes/quote-rotator-2.php:202 shortcodes/team-member.php:147
+#: shortcodes/quote-rotator.php:203 shortcodes/big-icon.php:55
+#: shortcodes/big-icon.php:84
+msgid "normal"
+msgstr ""
+
+#: admin/ut.icons.popup.php:505
+msgid "90 &deg;"
+msgstr ""
+
+#: admin/ut.icons.popup.php:508
+msgid "180 &deg;"
+msgstr ""
+
+#: admin/ut.icons.popup.php:511
+msgid "270 &deg;"
+msgstr ""
+
+#: admin/ut.icons.popup.php:514
+msgid "Flip H."
+msgstr ""
+
+#: admin/ut.icons.popup.php:517
+msgid "Flip V."
+msgstr ""
+
+#: admin/ut.icons.popup.php:530
+msgid "Links , Classes & Alignment"
+msgstr ""
+
+#: admin/ut.icons.popup.php:537
+msgid "Link:"
+msgstr ""
+
+#: admin/ut.icons.popup.php:547
+msgid "Target:"
+msgstr ""
+
+#: admin/ut.icons.popup.php:554 shortcodes/button.php:82
+#: shortcodes/fancy-link.php:49
+msgid "self"
+msgstr ""
+
+#: admin/ut.icons.popup.php:558 shortcodes/button.php:81
+#: shortcodes/fancy-link.php:48
+msgid "blank"
+msgstr ""
+
+#: admin/ut.icons.popup.php:567
+msgid "Class:"
+msgstr ""
+
+#: admin/ut.icons.popup.php:577
+msgid "Align:"
+msgstr ""
+
+#: admin/ut.icons.popup.php:589 shortcodes/icon-tabs.php:52
+#: shortcodes/call-to-action.php:133 shortcodes/portfolio-details.php:93
+#: shortcodes/animated-image.php:63 shortcodes/service-column.php:116
+#: shortcodes/service-icon-box.php:127 shortcodes/letter-effects.php:87
+#: shortcodes/word-rotator.php:82 shortcodes/header.php:63
+#: shortcodes/btn.php:105 shortcodes/team-member.php:118
+msgid "left"
+msgstr ""
+
+#: admin/ut.icons.popup.php:593 shortcodes/icon-tabs.php:53
+#: shortcodes/call-to-action.php:134 shortcodes/portfolio-details.php:95
+#: shortcodes/animated-image.php:65 shortcodes/service-column.php:117
+#: shortcodes/service-icon-box.php:128 shortcodes/letter-effects.php:89
+#: shortcodes/word-rotator.php:84 shortcodes/btn.php:106
+#: shortcodes/team-member.php:119
+msgid "right"
+msgstr ""
+
+#: admin/ut.icons.popup.php:624
+msgid "Edit Icon"
+msgstr ""
+
+#: admin/ut.icons.popup.php:625
+msgid "Insert Icon now"
+msgstr ""
+
+#: admin/ut.icons.popup.php:630
+msgid "Insert Icon"
+msgstr ""
+
+#: vc/vc-params.php:69
+msgid "Please enter a unique section name."
+msgstr ""
+
+#: vc/vc-params.php:75
+#, php-format
+msgid ""
+"This is your final custom link. You can copy this URL and manually add it as "
+"a custom link to the themes primary navigation or a custom link such as a "
+"button or any other element which supports links. By using the button "
+"beneath, the system will add the menu item program automatically to the "
+"themes primary navigation. Afterwards you simply need to re order the item. "
+"If you are using the custom link on a button, please copy the link, add it "
+"to the desired element and additionally add the following CSS class to it: %s"
+msgstr ""
+
+#: vc/vc-params.php:79 vc/vc-params.php:79
+msgid "Add to menu"
+msgstr ""
+
+#: shortcodes/single-quote.php:27
+msgid "Single Testimonial"
+msgstr ""
+
+#: shortcodes/single-quote.php:48
+msgid "Date"
+msgstr ""
+
+#: shortcodes/single-quote.php:54
+msgid "Quote Text"
+msgstr ""
+
+#: shortcodes/single-quote.php:65 shortcodes/single-quote.php:165
+#: shortcodes/parallax-quote.php:63 shortcodes/service-box.php:125
+#: shortcodes/service-box.php:137 shortcodes/service-box.php:150
+#: shortcodes/service-column-vertical.php:152
+#: shortcodes/service-column-vertical.php:164
+#: shortcodes/service-column-vertical.php:177 shortcodes/animated-image.php:137
+#: shortcodes/animated-image.php:149 shortcodes/animated-image.php:162
+#: shortcodes/image-gallery.php:69 shortcodes/image-gallery.php:99
+#: shortcodes/image-gallery.php:131 shortcodes/image-gallery.php:144
+#: shortcodes/image-gallery.php:156 shortcodes/image-gallery.php:187
+#: shortcodes/gallery-slider.php:53 shortcodes/gallery-slider.php:112
+#: shortcodes/gallery-slider.php:136 shortcodes/gallery-slider.php:151
+#: shortcodes/gallery-slider.php:162 shortcodes/service-column.php:167
+#: shortcodes/service-column.php:179 shortcodes/service-column.php:192
+#: shortcodes/service-icon-box.php:178 shortcodes/service-icon-box.php:190
+#: shortcodes/service-icon-box.php:203 shortcodes/probar.php:63
+#: shortcodes/progress-circle.php:90 shortcodes/btn.php:128
+#: shortcodes/quote-rotator-2.php:52 shortcodes/quote-rotator-2.php:73
+#: shortcodes/quote-rotator-2.php:87 shortcodes/quote-rotator-2.php:168
+#: shortcodes/probar-2.php:63 shortcodes/media-slider.php:180
+#: shortcodes/media-slider.php:204 shortcodes/media-slider.php:214
+#: shortcodes/media-slider.php:225 shortcodes/quote-rotator.php:52
+#: shortcodes/quote-rotator.php:73 shortcodes/quote-rotator.php:87
+#: shortcodes/quote-rotator.php:169
+msgid "yes"
+msgstr ""
+
+#: shortcodes/single-quote.php:66 shortcodes/single-quote.php:164
+#: shortcodes/parallax-quote.php:64 shortcodes/service-box.php:124
+#: shortcodes/service-box.php:136 shortcodes/service-box.php:149
+#: shortcodes/service-column-vertical.php:151
+#: shortcodes/service-column-vertical.php:163
+#: shortcodes/service-column-vertical.php:176 shortcodes/animated-image.php:136
+#: shortcodes/animated-image.php:148 shortcodes/animated-image.php:161
+#: shortcodes/image-gallery.php:70 shortcodes/image-gallery.php:98
+#: shortcodes/image-gallery.php:132 shortcodes/image-gallery.php:143
+#: shortcodes/image-gallery.php:155 shortcodes/image-gallery.php:186
+#: shortcodes/gallery-slider.php:54 shortcodes/gallery-slider.php:111
+#: shortcodes/gallery-slider.php:135 shortcodes/gallery-slider.php:152
+#: shortcodes/gallery-slider.php:163 shortcodes/service-column.php:166
+#: shortcodes/service-column.php:178 shortcodes/service-column.php:191
+#: shortcodes/service-icon-box.php:177 shortcodes/service-icon-box.php:189
+#: shortcodes/service-icon-box.php:202 shortcodes/probar.php:62
+#: shortcodes/progress-circle.php:91 shortcodes/btn.php:127
+#: shortcodes/quote-rotator-2.php:51 shortcodes/quote-rotator-2.php:74
+#: shortcodes/quote-rotator-2.php:88 shortcodes/quote-rotator-2.php:167
+#: shortcodes/probar-2.php:62 shortcodes/media-slider.php:179
+#: shortcodes/media-slider.php:203 shortcodes/media-slider.php:215
+#: shortcodes/media-slider.php:226 shortcodes/quote-rotator.php:51
+#: shortcodes/quote-rotator.php:74 shortcodes/quote-rotator.php:88
+#: shortcodes/quote-rotator.php:168
+msgid "no"
+msgstr ""
+
+#: shortcodes/single-quote.php:87
+msgid "Author Name"
+msgstr ""
+
+#: shortcodes/single-quote.php:94
+msgid "Company / Occupation"
+msgstr ""
+
+#: shortcodes/single-quote.php:100 shortcodes/service-box.php:170
+#: shortcodes/client-group.php:56 shortcodes/client-group.php:188
+#: shortcodes/button.php:101
+msgid "Class"
+msgstr ""
+
+#: shortcodes/single-quote.php:101 shortcodes/call-to-action.php:80
+#: shortcodes/parallax-quote.php:403 shortcodes/service-box.php:171
+#: shortcodes/portfolio-details.php:102 shortcodes/client-group.php:57
+#: shortcodes/client-group.php:189 shortcodes/animated-image.php:182
+#: shortcodes/image-gallery.php:230 shortcodes/gallery-slider.php:186
+#: shortcodes/fancy-link.php:84 shortcodes/service-column.php:218
+#: shortcodes/probar.php:181 shortcodes/progress-circle.php:174
+#: shortcodes/social-share-bar.php:64 shortcodes/btn.php:51
+#: shortcodes/quote-rotator-2.php:108 shortcodes/probar-2.php:174
+#: shortcodes/media-slider.php:249 shortcodes/quote-rotator.php:108
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: shortcodes/single-quote.php:109
+msgid "Author Color"
+msgstr ""
+
+#: shortcodes/single-quote.php:115
+msgid "Company Color"
+msgstr ""
+
+#: shortcodes/single-quote.php:127
+msgid "Date Color"
+msgstr ""
+
+#: shortcodes/single-quote.php:133
+msgid "Rating Color"
+msgstr ""
+
+#: shortcodes/single-quote.php:139 shortcodes/team-member.php:202
+msgid "Decoration Line Color"
+msgstr ""
+
+#: shortcodes/single-quote.php:145 shortcodes/parallax-quote.php:98
+#: shortcodes/quote-rotator-2.php:149 shortcodes/quote-rotator.php:149
+msgid "Quote Color"
+msgstr ""
+
+#: shortcodes/single-quote.php:153
+msgid "Animate Avatar"
+msgstr ""
+
+#: shortcodes/single-quote.php:160
+msgid "Animate Once?"
+msgstr ""
+
+#: shortcodes/single-quote.php:173 shortcodes/call-to-action.php:239
+#: shortcodes/parallax-quote.php:398 shortcodes/service-box.php:178
+#: shortcodes/custom-shortcode.php:44 shortcodes/portfolio-details.php:137
+#: shortcodes/client-group.php:150 shortcodes/animated-image.php:191
+#: shortcodes/image-gallery.php:239 shortcodes/gallery-slider.php:235
+#: shortcodes/service-column.php:213 shortcodes/probar.php:176
+#: shortcodes/fancy-list.php:127 shortcodes/word-rotator.php:90
+#: shortcodes/social-share-bar.php:103 shortcodes/header.php:194
+#: shortcodes/quote-rotator-2.php:211 shortcodes/count-up.php:69
+#: shortcodes/team-member.php:251 shortcodes/probar-2.php:169
+#: shortcodes/media-slider.php:305 shortcodes/quote-rotator.php:213
+msgid "Design Options"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:35
+msgid "Icon Tabs"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:50 shortcodes/header.php:60
+msgid "Select Alignment"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:51 shortcodes/call-to-action.php:132
+#: shortcodes/portfolio-details.php:94 shortcodes/animated-image.php:64
+#: shortcodes/service-icon-box.php:126 shortcodes/letter-effects.php:88
+#: shortcodes/word-rotator.php:83 shortcodes/header.php:62
+#: shortcodes/btn.php:104 shortcodes/team-member.php:117
+msgid "center"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:58
+msgid "Label Font Weight"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:63 shortcodes/parallax-quote.php:231
+#: shortcodes/parallax-quote.php:261 shortcodes/parallax-quote.php:373
+#: shortcodes/probar.php:126 shortcodes/progress-circle.php:106
+#: shortcodes/progress-circle.php:142 shortcodes/social-share-bar.php:50
+#: shortcodes/header.php:184 shortcodes/btn.php:219
+#: shortcodes/quote-rotator-2.php:201 shortcodes/probar-2.php:126
+#: shortcodes/quote-rotator.php:202 shortcodes/big-icon.php:83
+msgid "Select Font Weight"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:65 shortcodes/parallax-quote.php:233
+#: shortcodes/parallax-quote.php:263 shortcodes/parallax-quote.php:375
+#: shortcodes/progress-circle.php:108 shortcodes/progress-circle.php:144
+#: shortcodes/social-share-bar.php:52 shortcodes/header.php:186
+#: shortcodes/btn.php:221 shortcodes/quote-rotator-2.php:203
+#: shortcodes/team-member.php:146 shortcodes/quote-rotator.php:204
+#: shortcodes/big-icon.php:85
+msgid "bold"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:70
+msgid "Label Text Transform"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:75 shortcodes/parallax-quote.php:247
+#: shortcodes/parallax-quote.php:386 shortcodes/probar.php:157
+#: shortcodes/progress-circle.php:129 shortcodes/btn.php:244
+#: shortcodes/probar-2.php:158 shortcodes/big-icon.php:94
+msgid "Select Text Transform"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:76 shortcodes/parallax-quote.php:248
+#: shortcodes/parallax-quote.php:387 shortcodes/probar.php:158
+#: shortcodes/progress-circle.php:130 shortcodes/btn.php:245
+#: shortcodes/probar-2.php:159 shortcodes/big-icon.php:95
+msgid "capitalize"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:77 shortcodes/parallax-quote.php:249
+#: shortcodes/parallax-quote.php:388 shortcodes/probar.php:159
+#: shortcodes/progress-circle.php:131 shortcodes/btn.php:246
+#: shortcodes/probar-2.php:160 shortcodes/big-icon.php:96
+msgid "uppercase"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:78 shortcodes/parallax-quote.php:250
+#: shortcodes/parallax-quote.php:389 shortcodes/probar.php:160
+#: shortcodes/progress-circle.php:132 shortcodes/btn.php:247
+#: shortcodes/probar-2.php:161 shortcodes/big-icon.php:97
+msgid "lowercase"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:92
+msgid "Icon Tab"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:101
+msgid "Icon Source"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:105
+msgid "Font Awesome"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:106
+msgid "Custom Icon"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:122 shortcodes/progress-circle.php:74
+#: shortcodes/big-icon.php:43
+msgid "recommended size 128x128"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:133
+msgid "Hover and Active Icon"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:134
+msgid "optional - recommended size 128x128"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:145
+msgid "Tab Label"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:171
+msgid "Icon Hover and Active Color"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:182
+msgid "Label Color"
+msgstr ""
+
+#: shortcodes/icon-tabs.php:189
+msgid "Label Hover and Active Color"
+msgstr ""
+
+#: shortcodes/call-to-action.php:27
+msgid "Call to Action"
+msgstr ""
+
+#: shortcodes/call-to-action.php:42 shortcodes/letter-effects.php:56
+#: shortcodes/word-rotator.php:51 shortcodes/quote-rotator-2.php:183
+#: shortcodes/quote-rotator.php:184
+msgid "Font Size"
+msgstr ""
+
+#: shortcodes/call-to-action.php:43
+msgid "value in px or em, eg \"20px\" or eg \"3em\" (optional)"
+msgstr ""
+
+#: shortcodes/call-to-action.php:49 shortcodes/service-box.php:61
+#: shortcodes/service-icon-box.php:84
+msgid "Headline Color"
+msgstr ""
+
+#: shortcodes/call-to-action.php:73 shortcodes/button.php:71
+#: shortcodes/btn.php:44
+msgid "Button Link"
+msgstr ""
+
+#: shortcodes/call-to-action.php:79 shortcodes/parallax-quote.php:402
+#: shortcodes/service-column-vertical.php:202
+#: shortcodes/portfolio-details.php:101 shortcodes/animated-image.php:181
+#: shortcodes/image-gallery.php:229 shortcodes/gallery-slider.php:185
+#: shortcodes/fancy-link.php:83 shortcodes/service-column.php:217
+#: shortcodes/service-icon-box.php:223 shortcodes/probar.php:180
+#: shortcodes/progress-circle.php:173 shortcodes/social-share-bar.php:63
+#: shortcodes/btn.php:50 shortcodes/quote-rotator-2.php:107
+#: shortcodes/count-up.php:107 shortcodes/probar-2.php:173
+#: shortcodes/media-slider.php:248 shortcodes/quote-rotator.php:107
+msgid "CSS Class"
+msgstr ""
+
+#: shortcodes/call-to-action.php:94 shortcodes/fancy-list.php:117
+#: shortcodes/btn.php:71
+msgid "Text Hover Color"
+msgstr ""
+
+#: shortcodes/call-to-action.php:106 shortcodes/btn.php:77
+msgid "Background Hover Color"
+msgstr ""
+
+#: shortcodes/call-to-action.php:115 shortcodes/button.php:30
+#: shortcodes/btn.php:85
+msgid "Button Size"
+msgstr ""
+
+#: shortcodes/call-to-action.php:119 shortcodes/btn.php:90
+msgid "Choose Button Size"
+msgstr ""
+
+#: shortcodes/call-to-action.php:120 shortcodes/btn.php:91
+msgid "mini"
+msgstr ""
+
+#: shortcodes/call-to-action.php:121 shortcodes/btn.php:92
+msgid "small"
+msgstr ""
+
+#: shortcodes/call-to-action.php:128 shortcodes/btn.php:99
+msgid "Button Alignment"
+msgstr ""
+
+#: shortcodes/call-to-action.php:155 shortcodes/btn.php:144
+msgid "Border Hover Color"
+msgstr ""
+
+#: shortcodes/call-to-action.php:169 shortcodes/btn.php:160
+#: shortcodes/team-member.php:233
+msgid "solid"
+msgstr ""
+
+#: shortcodes/call-to-action.php:170 shortcodes/btn.php:161
+#: shortcodes/team-member.php:234
+msgid "dotted"
+msgstr ""
+
+#: shortcodes/call-to-action.php:171 shortcodes/btn.php:162
+#: shortcodes/team-member.php:235
+msgid "dashed"
+msgstr ""
+
+#: shortcodes/call-to-action.php:172 shortcodes/btn.php:163
+#: shortcodes/team-member.php:236
+msgid "double"
+msgstr ""
+
+#: shortcodes/call-to-action.php:173 shortcodes/btn.php:164
+#: shortcodes/team-member.php:237
+msgid "groove"
+msgstr ""
+
+#: shortcodes/call-to-action.php:174 shortcodes/btn.php:165
+#: shortcodes/team-member.php:238
+msgid "ridge"
+msgstr ""
+
+#: shortcodes/call-to-action.php:175 shortcodes/btn.php:166
+#: shortcodes/team-member.php:239
+msgid "inset"
+msgstr ""
+
+#: shortcodes/call-to-action.php:176 shortcodes/btn.php:167
+#: shortcodes/team-member.php:240
+msgid "outset"
+msgstr ""
+
+#: shortcodes/fancy-image.php:22
+msgid "Fancy Image"
+msgstr ""
+
+#: shortcodes/fancy-image.php:37
+msgid "Image Overlay Color"
+msgstr ""
+
+#: shortcodes/fancy-image.php:61
+msgid "Title Hover Color"
+msgstr ""
+
+#: shortcodes/fancy-image.php:67 shortcodes/portfolio-details.php:62
+#: shortcodes/team-member.php:62
+msgid "Description"
+msgstr ""
+
+#: shortcodes/fancy-image.php:73 shortcodes/portfolio-details.php:116
+#: shortcodes/team-member.php:152
+msgid "Description Color"
+msgstr ""
+
+#: shortcodes/fancy-image.php:86 shortcodes/service-column.php:84
+msgid "value in px , eg \"20px\" (optional)"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:37
+msgid "Choose Icon ( optional )"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:59
+msgid "Show Quotation Marks?"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:85
+msgid "Icon Border Radius"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:105
+msgid "Quotation Marks Color"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:115
+msgid "Quote Highlight Color"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:116
+#, php-format
+msgid "(optional) - use: %s inside your quote to apply this color."
+msgstr ""
+
+#: shortcodes/parallax-quote.php:122
+msgid "Cite Color"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:131 shortcodes/parallax-quote.php:272
+#: shortcodes/parallax-quote.php:301
+msgid "Choose Font Source"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:134 shortcodes/parallax-quote.php:275
+msgid "Theme Default"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:135 shortcodes/parallax-quote.php:276
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:136 shortcodes/parallax-quote.php:277
+#: shortcodes/quote-rotator-2.php:173 shortcodes/quote-rotator.php:174
+msgid "Google Font"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:148 shortcodes/parallax-quote.php:289
+msgid "Select font family."
+msgstr ""
+
+#: shortcodes/parallax-quote.php:149 shortcodes/parallax-quote.php:290
+msgid "Select font styling."
+msgstr ""
+
+#: shortcodes/parallax-quote.php:160
+msgid "Websafe Fonts"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:186
+msgid "Quote Font Size"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:199
+msgid "Quote Line Height"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:212
+msgid "Quote Letter Spacing"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:227
+msgid "Quote Font Weight"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:243
+msgid "Quote Text Transform"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:257
+msgid "Quote Highlight Font Weight"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:327
+msgid "Cite Font Size"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:341
+msgid "Cite Line Height"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:354
+msgid "Cite Letter Spacing"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:369
+msgid "Cite Font Weight"
+msgstr ""
+
+#: shortcodes/parallax-quote.php:382
+msgid "Cite Text Transform"
+msgstr ""
+
+#: shortcodes/service-box.php:27 shortcodes/dummy.php:27
+msgid "Service Box"
+msgstr ""
+
+#: shortcodes/service-box.php:83 shortcodes/service-column-vertical.php:110
+#: shortcodes/animated-image.php:95 shortcodes/service-column.php:125
+#: shortcodes/service-icon-box.php:136
+msgid "Select image animation effect."
+msgstr ""
+
+#: shortcodes/service-box.php:119 shortcodes/service-column-vertical.php:146
+#: shortcodes/animated-image.php:131 shortcodes/service-column.php:161
+#: shortcodes/service-icon-box.php:172
+msgid "Animate Image on Tablet?"
+msgstr ""
+
+#: shortcodes/service-box.php:131 shortcodes/service-column-vertical.php:158
+#: shortcodes/animated-image.php:143 shortcodes/service-column.php:173
+#: shortcodes/service-icon-box.php:184
+msgid "Animate Image on Mobile?"
+msgstr ""
+
+#: shortcodes/service-box.php:143 shortcodes/service-column-vertical.php:170
+#: shortcodes/animated-image.php:155 shortcodes/image-gallery.php:180
+#: shortcodes/service-column.php:185 shortcodes/service-icon-box.php:196
+msgid "Delay Animation?"
+msgstr ""
+
+#: shortcodes/service-box.php:144 shortcodes/service-column-vertical.php:171
+#: shortcodes/animated-image.php:156 shortcodes/service-column.php:186
+#: shortcodes/service-icon-box.php:197
+msgid "Time in milliseconds until the image appears. e.g. 200"
+msgstr ""
+
+#: shortcodes/service-box.php:156 shortcodes/service-column-vertical.php:183
+#: shortcodes/animated-image.php:168 shortcodes/image-gallery.php:197
+#: shortcodes/service-column.php:198 shortcodes/service-icon-box.php:209
+msgid "Delay Timer"
+msgstr ""
+
+#: shortcodes/service-box.php:157 shortcodes/service-column-vertical.php:184
+#: shortcodes/animated-image.php:169 shortcodes/image-gallery.php:198
+#: shortcodes/service-column.php:199 shortcodes/service-icon-box.php:210
+msgid "Time in milliseconds until the next image appears. e.g. 200"
+msgstr ""
+
+#: shortcodes/service-column-vertical.php:42 shortcodes/service-column.php:43
+#: shortcodes/service-icon-box.php:41 shortcodes/progress-circle.php:73
+#: shortcodes/count-up.php:43 shortcodes/big-icon.php:42
+msgid "or upload an own Icon"
+msgstr ""
+
+#: shortcodes/service-column-vertical.php:43 shortcodes/service-column.php:44
+#: shortcodes/count-up.php:44
+msgid "recommended size 32x32"
+msgstr ""
+
+#: shortcodes/service-column-vertical.php:69 shortcodes/service-column.php:71
+#: shortcodes/big-icon.php:53
+msgid "round"
+msgstr ""
+
+#: shortcodes/service-column-vertical.php:83 shortcodes/service-column.php:90
+msgid "Column Headline Color"
+msgstr ""
+
+#: shortcodes/service-column-vertical.php:91
+msgid "Column Text"
+msgstr ""
+
+#: shortcodes/service-column-vertical.php:99 shortcodes/service-column.php:103
+msgid "Column Text Color"
+msgstr ""
+
+#: shortcodes/service-column-vertical.php:198
+#: shortcodes/service-icon-box.php:73
+msgid "Design options"
+msgstr ""
+
+#: shortcodes/custom-shortcode.php:27
+msgid "Custom Shortcode"
+msgstr ""
+
+#: shortcodes/portfolio-details.php:27
+msgid "Portfolio Details Box"
+msgstr ""
+
+#: shortcodes/portfolio-details.php:36 shortcodes/header.php:37
+msgid "Style"
+msgstr ""
+
+#: shortcodes/portfolio-details.php:40
+msgid "List"
+msgstr ""
+
+#: shortcodes/portfolio-details.php:41
+msgid "Compact"
+msgstr ""
+
+#: shortcodes/portfolio-details.php:42 shortcodes/letter-effects.php:73
+#: shortcodes/word-rotator.php:68
+msgid "Inline"
+msgstr ""
+
+#: shortcodes/portfolio-details.php:48
+msgid "Details"
+msgstr ""
+
+#: shortcodes/portfolio-details.php:89
+msgid "Text Alignment"
+msgstr ""
+
+#: shortcodes/portfolio-details.php:122
+msgid "Description Link Color"
+msgstr ""
+
+#: shortcodes/portfolio-details.php:128
+msgid "Description Link Hover Color"
+msgstr ""
+
+#: shortcodes/client-group.php:39
+msgid "Client Carousel"
+msgstr ""
+
+#: shortcodes/client-group.php:65
+msgid "Decoration Line Top Color"
+msgstr ""
+
+#: shortcodes/client-group.php:75
+msgid "Decoration Line Bottom Color"
+msgstr ""
+
+#: shortcodes/client-group.php:85 shortcodes/gallery-slider.php:194
+#: shortcodes/quote-rotator-2.php:116 shortcodes/media-slider.php:257
+#: shortcodes/quote-rotator.php:116
+msgid "Arrow Color"
+msgstr ""
+
+#: shortcodes/client-group.php:95
+msgid "Arrow Hover Color"
+msgstr ""
+
+#: shortcodes/client-group.php:105 shortcodes/gallery-slider.php:207
+#: shortcodes/quote-rotator-2.php:129 shortcodes/media-slider.php:270
+#: shortcodes/quote-rotator.php:129
+msgid "Arrow Background Color"
+msgstr ""
+
+#: shortcodes/client-group.php:115
+msgid "Arrow Hover Background Color"
+msgstr ""
+
+#: shortcodes/client-group.php:125
+msgid "Arrow Border Color"
+msgstr ""
+
+#: shortcodes/client-group.php:135
+msgid "Arrow Hover Border Color"
+msgstr ""
+
+#: shortcodes/client-group.php:161
+msgid "Client"
+msgstr ""
+
+#: shortcodes/client-group.php:169
+msgid "Client Logo"
+msgstr ""
+
+#: shortcodes/client-group.php:182
+msgid "Client Website"
+msgstr ""
+
+#: shortcodes/animated-image.php:27
+msgid "Animated Single Image"
+msgstr ""
+
+#: shortcodes/animated-image.php:44
+msgid "Image Size"
+msgstr ""
+
+#: shortcodes/animated-image.php:49 shortcodes/image-gallery.php:55
+msgid "Thumbnail"
+msgstr ""
+
+#: shortcodes/animated-image.php:52 shortcodes/image-gallery.php:58
+msgid "Original"
+msgstr ""
+
+#: shortcodes/animated-image.php:58
+msgid "Image Alignment"
+msgstr ""
+
+#: shortcodes/animated-image.php:71 shortcodes/media-slider.php:76
+msgid "Link Image?"
+msgstr ""
+
+#: shortcodes/animated-image.php:75 shortcodes/media-slider.php:79
+msgid "No Link"
+msgstr ""
+
+#: shortcodes/animated-image.php:76 shortcodes/media-slider.php:80
+msgid "Custom Link"
+msgstr ""
+
+#: shortcodes/animated-image.php:77 shortcodes/media-slider.php:81
+msgid "Open in Lightbox"
+msgstr ""
+
+#: shortcodes/image-gallery.php:33
+msgid "Image Gallery"
+msgstr ""
+
+#: shortcodes/image-gallery.php:42
+msgid "Gallery"
+msgstr ""
+
+#: shortcodes/image-gallery.php:50
+msgid "Thumbnail Size"
+msgstr ""
+
+#: shortcodes/image-gallery.php:64 shortcodes/gallery-slider.php:49
+msgid "Activate Lightbox?"
+msgstr ""
+
+#: shortcodes/image-gallery.php:76
+msgid "Gallery Items per row."
+msgstr ""
+
+#: shortcodes/image-gallery.php:77
+msgid "Select your desired amount of images per row."
+msgstr ""
+
+#: shortcodes/image-gallery.php:82
+msgid "1"
+msgstr ""
+
+#: shortcodes/image-gallery.php:83
+msgid "2"
+msgstr ""
+
+#: shortcodes/image-gallery.php:84
+msgid "3"
+msgstr ""
+
+#: shortcodes/image-gallery.php:85
+msgid "4"
+msgstr ""
+
+#: shortcodes/image-gallery.php:86
+msgid "5"
+msgstr ""
+
+#: shortcodes/image-gallery.php:92
+msgid "Adjust last row?"
+msgstr ""
+
+#: shortcodes/image-gallery.php:93
+msgid ""
+"This Option will adjust the remaining items inside the last row to a higher "
+"grid if necessary."
+msgstr ""
+
+#: shortcodes/image-gallery.php:105
+msgid "Gallery Items Gap."
+msgstr ""
+
+#: shortcodes/image-gallery.php:106
+msgid "Select gap between gallery images."
+msgstr ""
+
+#: shortcodes/image-gallery.php:111
+msgid "0px"
+msgstr ""
+
+#: shortcodes/image-gallery.php:112
+msgid "5px"
+msgstr ""
+
+#: shortcodes/image-gallery.php:113
+msgid "10px"
+msgstr ""
+
+#: shortcodes/image-gallery.php:114
+msgid "15px"
+msgstr ""
+
+#: shortcodes/image-gallery.php:115
+msgid "20px"
+msgstr ""
+
+#: shortcodes/image-gallery.php:116
+msgid "25px"
+msgstr ""
+
+#: shortcodes/image-gallery.php:117
+msgid "30px"
+msgstr ""
+
+#: shortcodes/image-gallery.php:118
+msgid "35px"
+msgstr ""
+
+#: shortcodes/image-gallery.php:119
+msgid "40px"
+msgstr ""
+
+#: shortcodes/image-gallery.php:125
+msgid "Animate Images?"
+msgstr ""
+
+#: shortcodes/image-gallery.php:126
+msgid ""
+"Animate each element inside your gallery with an awesome animation effect."
+msgstr ""
+
+#: shortcodes/image-gallery.php:138
+msgid "Animate Images on Tablet?"
+msgstr ""
+
+#: shortcodes/image-gallery.php:150
+msgid "Animate Images on Mobile?"
+msgstr ""
+
+#: shortcodes/image-gallery.php:181
+msgid "Animate Images inside the Gallery one by one."
+msgstr ""
+
+#: shortcodes/image-gallery.php:211
+msgid "Select initial loading animation for images."
+msgstr ""
+
+#: shortcodes/button.php:22 shortcodes/btn.php:27
+msgid "Button"
+msgstr ""
+
+#: shortcodes/button.php:42
+msgid "Button Skin"
+msgstr ""
+
+#: shortcodes/button.php:61
+msgid "Button Shape"
+msgstr ""
+
+#: shortcodes/button.php:77
+msgid "Button Link Target"
+msgstr ""
+
+#: shortcodes/button.php:93
+msgid "Button Title"
+msgstr ""
+
+#: shortcodes/button.php:102
+msgid "( optional )"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:32
+msgid "Gallery Slider"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:42 shortcodes/media-slider.php:42
+msgid "Slides"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:60 shortcodes/media-slider.php:128
+msgid "Slider Type"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:64 shortcodes/media-slider.php:132
+msgid "Single Slide"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:65 shortcodes/media-slider.php:133
+msgid "Carousel"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:71 shortcodes/media-slider.php:139
+msgid "Slides on Desktop"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:72 shortcodes/gallery-slider.php:90
+#: shortcodes/media-slider.php:140 shortcodes/media-slider.php:158
+msgid "The number of items you want to see on the screen."
+msgstr ""
+
+#: shortcodes/gallery-slider.php:89 shortcodes/media-slider.php:157
+msgid "Slides on Tablet"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:107 shortcodes/quote-rotator-2.php:47
+#: shortcodes/media-slider.php:175 shortcodes/quote-rotator.php:47
+msgid "Autoplay Slider?"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:118 shortcodes/quote-rotator-2.php:57
+#: shortcodes/media-slider.php:186 shortcodes/quote-rotator.php:57
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:119 shortcodes/quote-rotator-2.php:58
+#: shortcodes/media-slider.php:187 shortcodes/quote-rotator.php:58
+msgid "Autoplay interval timeout in milliseconds. Default: 5000"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:131 shortcodes/quote-rotator-2.php:69
+#: shortcodes/media-slider.php:199 shortcodes/quote-rotator.php:69
+msgid "Loop Slider?"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:147 shortcodes/quote-rotator-2.php:83
+#: shortcodes/media-slider.php:210 shortcodes/quote-rotator.php:83
+msgid "Show Next / Prev Navigation?"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:158 shortcodes/media-slider.php:221
+msgid "Show Dot Navigation?"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:169 shortcodes/quote-rotator-2.php:93
+#: shortcodes/media-slider.php:232 shortcodes/quote-rotator.php:93
+msgid "Animation Effect In"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:177 shortcodes/quote-rotator-2.php:100
+#: shortcodes/media-slider.php:240 shortcodes/quote-rotator.php:100
+msgid "Animation Effect Out"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:200 shortcodes/quote-rotator-2.php:122
+#: shortcodes/media-slider.php:263 shortcodes/quote-rotator.php:122
+msgid "Arrow Color Hover"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:213 shortcodes/quote-rotator-2.php:135
+#: shortcodes/media-slider.php:276 shortcodes/quote-rotator.php:135
+msgid "Arrow Background Color Hover"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:220 shortcodes/media-slider.php:283
+#: shortcodes/media-slider.php:289
+msgid "Dot Color"
+msgstr ""
+
+#: shortcodes/gallery-slider.php:226
+msgid "Dot Color Hover / Active"
+msgstr ""
+
+#: shortcodes/fancy-link.php:32
+msgid "Link Text"
+msgstr ""
+
+#: shortcodes/fancy-link.php:45 shortcodes/service-icon-box.php:109
+msgid "Link Target"
+msgstr ""
+
+#: shortcodes/fancy-link.php:55
+msgid "Link Color"
+msgstr ""
+
+#: shortcodes/fancy-link.php:62
+msgid "Line Color"
+msgstr ""
+
+#: shortcodes/fancy-link.php:69
+msgid "Link Hover Color"
+msgstr ""
+
+#: shortcodes/fancy-link.php:76
+msgid "Line Hover Color"
+msgstr ""
+
+#: shortcodes/service-column.php:27
+msgid "Service Column"
+msgstr ""
+
+#: shortcodes/service-column.php:83
+msgid "Headline Margin Bottom"
+msgstr ""
+
+#: shortcodes/service-icon-box.php:42
+msgid "recommended size 48x48"
+msgstr ""
+
+#: shortcodes/service-icon-box.php:54 shortcodes/fancy-list.php:110
+#: shortcodes/big-icon.php:131
+msgid "Icon Hover Color"
+msgstr ""
+
+#: shortcodes/service-icon-box.php:66 shortcodes/big-icon.php:137
+msgid "Icon Background Hover Color"
+msgstr ""
+
+#: shortcodes/service-icon-box.php:113
+msgid "_blank"
+msgstr ""
+
+#: shortcodes/service-icon-box.php:114
+msgid "_self"
+msgstr ""
+
+#: shortcodes/letter-effects.php:32
+msgid "Letter Effects"
+msgstr ""
+
+#: shortcodes/letter-effects.php:41 shortcodes/word-rotator.php:36
+msgid "Rotation Time"
+msgstr ""
+
+#: shortcodes/letter-effects.php:42 shortcodes/word-rotator.php:37
+msgid "value in miliseconds, eg \"3000\""
+msgstr ""
+
+#: shortcodes/letter-effects.php:48 shortcodes/word-rotator.php:43
+msgid "Words"
+msgstr ""
+
+#: shortcodes/letter-effects.php:49 shortcodes/word-rotator.php:44
+msgid "Each new line will be separate Word."
+msgstr ""
+
+#: shortcodes/letter-effects.php:57 shortcodes/word-rotator.php:52
+#: shortcodes/header.php:75
+msgid "(optional) value in px or em, eg \"20px\" or \"6em\""
+msgstr ""
+
+#: shortcodes/letter-effects.php:69 shortcodes/word-rotator.php:64
+msgid "Display"
+msgstr ""
+
+#: shortcodes/letter-effects.php:74 shortcodes/word-rotator.php:69
+msgid "Block"
+msgstr ""
+
+#: shortcodes/letter-effects.php:79 shortcodes/word-rotator.php:74
+msgid "Text Align"
+msgstr ""
+
+#: shortcodes/probar.php:27
+msgid "Progress Bar"
+msgstr ""
+
+#: shortcodes/probar.php:37 shortcodes/probar-2.php:37
+msgid "Bar Description"
+msgstr ""
+
+#: shortcodes/probar.php:58 shortcodes/probar-2.php:58
+msgid "Animate Bar Once?"
+msgstr ""
+
+#: shortcodes/probar.php:70 shortcodes/probar-2.php:70
+msgid "Bar Description Color"
+msgstr ""
+
+#: shortcodes/probar.php:82
+msgid "Bar Background Color"
+msgstr ""
+
+#: shortcodes/probar.php:88 shortcodes/probar-2.php:82
+msgid "Bar Percentage Color"
+msgstr ""
+
+#: shortcodes/probar.php:109 shortcodes/probar-2.php:109
+msgid "Description Font Size"
+msgstr ""
+
+#: shortcodes/probar.php:121 shortcodes/probar-2.php:121
+msgid "Description Font Weight"
+msgstr ""
+
+#: shortcodes/probar.php:122 shortcodes/probar-2.php:122
+msgid "You can additionally style H3 tags inside the theme options panel."
+msgstr ""
+
+#: shortcodes/probar.php:127 shortcodes/probar-2.php:127
+msgid "100"
+msgstr ""
+
+#: shortcodes/probar.php:128 shortcodes/probar-2.php:128
+msgid "200"
+msgstr ""
+
+#: shortcodes/probar.php:129 shortcodes/probar-2.php:129
+msgid "300"
+msgstr ""
+
+#: shortcodes/probar.php:130 shortcodes/probar-2.php:130
+msgid "400"
+msgstr ""
+
+#: shortcodes/probar.php:131 shortcodes/probar-2.php:131
+msgid "500"
+msgstr ""
+
+#: shortcodes/probar.php:132 shortcodes/probar-2.php:132
+msgid "600"
+msgstr ""
+
+#: shortcodes/probar.php:133 shortcodes/probar-2.php:133
+msgid "700"
+msgstr ""
+
+#: shortcodes/probar.php:134 shortcodes/probar-2.php:134
+msgid "800"
+msgstr ""
+
+#: shortcodes/probar.php:135 shortcodes/probar-2.php:135
+msgid "900"
+msgstr ""
+
+#: shortcodes/probar.php:141 shortcodes/probar-2.php:141
+msgid "Description Letter Spacing"
+msgstr ""
+
+#: shortcodes/probar.php:153 shortcodes/probar-2.php:154
+msgid "Description Text Transform"
+msgstr ""
+
+#: shortcodes/progress-circle.php:27
+msgid "Progress Circle"
+msgstr ""
+
+#: shortcodes/progress-circle.php:36
+msgid "Circle Style"
+msgstr ""
+
+#: shortcodes/progress-circle.php:40
+msgid "Cirle with title and percent"
+msgstr ""
+
+#: shortcodes/progress-circle.php:41
+msgid "Cirle with icon and title"
+msgstr ""
+
+#: shortcodes/progress-circle.php:47
+msgid "Percentage"
+msgstr ""
+
+#: shortcodes/progress-circle.php:85
+msgid "Show Percent Value in Circle?"
+msgstr ""
+
+#: shortcodes/progress-circle.php:101
+msgid "Percent Font Weight"
+msgstr ""
+
+#: shortcodes/progress-circle.php:124
+msgid "Title Transform"
+msgstr ""
+
+#: shortcodes/progress-circle.php:137
+msgid "Title Font Weight"
+msgstr ""
+
+#: shortcodes/progress-circle.php:149
+msgid "Stroke Width"
+msgstr ""
+
+#: shortcodes/progress-circle.php:183
+msgid "Circle Color"
+msgstr ""
+
+#: shortcodes/progress-circle.php:190
+msgid "Circle Stroke Color"
+msgstr ""
+
+#: shortcodes/progress-circle.php:204
+msgid "Percentage Color"
+msgstr ""
+
+#: shortcodes/fancy-list.php:27
+msgid "Fancy List"
+msgstr ""
+
+#: shortcodes/fancy-list.php:37
+msgid "List Style"
+msgstr ""
+
+#: shortcodes/fancy-list.php:42
+msgid "Icons"
+msgstr ""
+
+#: shortcodes/fancy-list.php:43
+msgid "disc"
+msgstr ""
+
+#: shortcodes/fancy-list.php:44
+msgid "circle"
+msgstr ""
+
+#: shortcodes/fancy-list.php:46
+msgid "decimal"
+msgstr ""
+
+#: shortcodes/fancy-list.php:47
+msgid "decimal-leading-zero"
+msgstr ""
+
+#: shortcodes/fancy-list.php:48
+msgid "lower-roman"
+msgstr ""
+
+#: shortcodes/fancy-list.php:49
+msgid "upper-roman"
+msgstr ""
+
+#: shortcodes/fancy-list.php:50
+msgid "lower-greek"
+msgstr ""
+
+#: shortcodes/fancy-list.php:51
+msgid "lower-latin"
+msgstr ""
+
+#: shortcodes/fancy-list.php:52
+msgid "upper-latin"
+msgstr ""
+
+#: shortcodes/fancy-list.php:53
+msgid "armenian"
+msgstr ""
+
+#: shortcodes/fancy-list.php:54
+msgid "georgian"
+msgstr ""
+
+#: shortcodes/fancy-list.php:55
+msgid "lower-alpha"
+msgstr ""
+
+#: shortcodes/fancy-list.php:56
+msgid "upper-alpha"
+msgstr ""
+
+#: shortcodes/fancy-list.php:62
+msgid "List Items"
+msgstr ""
+
+#: shortcodes/fancy-list.php:69
+msgid "Only applies when List Style has been set to Icons."
+msgstr ""
+
+#: shortcodes/fancy-list.php:74
+msgid "List Item"
+msgstr ""
+
+#: shortcodes/fancy-list.php:111 shortcodes/fancy-list.php:118
+msgid "Only applies if list item is link."
+msgstr ""
+
+#: shortcodes/word-rotator.php:27
+msgid "Word Rotator"
+msgstr ""
+
+#: shortcodes/split-section.php:30
+msgid "Split Section"
+msgstr ""
+
+#: shortcodes/split-section.php:52
+msgid "Split Section Part"
+msgstr ""
+
+#: shortcodes/split-section.php:138
+msgid "Drag Split Section to reorder"
+msgstr ""
+
+#: shortcodes/split-section.php:139
+msgid "Add column"
+msgstr ""
+
+#: shortcodes/split-section.php:140
+msgid "Delete this Split Section"
+msgstr ""
+
+#: shortcodes/split-section.php:141
+msgid "Edit this Split Section"
+msgstr ""
+
+#: shortcodes/split-section.php:142
+msgid "Clone this Split Section"
+msgstr ""
+
+#: shortcodes/split-section.php:143
+msgid "Toggle Split Section"
+msgstr ""
+
+#: shortcodes/social-share-bar.php:27
+msgid "Social Share Bar"
+msgstr ""
+
+#: shortcodes/social-share-bar.php:37
+msgid "Share Text"
+msgstr ""
+
+#: shortcodes/social-share-bar.php:38
+msgid "<strong>(optional)</strong> default: Share"
+msgstr ""
+
+#: shortcodes/social-share-bar.php:45
+msgid "Share Text Font Weight"
+msgstr ""
+
+#: shortcodes/social-share-bar.php:46
+msgid "<strong>(optional)</strong>"
+msgstr ""
+
+#: shortcodes/social-share-bar.php:72
+msgid "Share Text Color"
+msgstr ""
+
+#: shortcodes/social-share-bar.php:78
+msgid "Icon Colors"
+msgstr ""
+
+#: shortcodes/social-share-bar.php:84
+msgid "Icon Colors Hover"
+msgstr ""
+
+#: shortcodes/social-share-bar.php:120
+msgid "Share:"
+msgstr ""
+
+#: shortcodes/header.php:27
+msgid "Header"
+msgstr ""
+
+#: shortcodes/header.php:41
+msgid "Select Style"
+msgstr ""
+
+#: shortcodes/header.php:42 shortcodes/header.php:61
+msgid "Default (Theme Options)"
+msgstr ""
+
+#: shortcodes/header.php:45
+msgid "Style Three"
+msgstr ""
+
+#: shortcodes/header.php:46
+msgid "Style Four"
+msgstr ""
+
+#: shortcodes/header.php:47
+msgid "Style Five"
+msgstr ""
+
+#: shortcodes/header.php:48
+msgid "Style Six"
+msgstr ""
+
+#: shortcodes/header.php:49
+msgid "Style Seven"
+msgstr ""
+
+#: shortcodes/header.php:74
+msgid "Title Font Size"
+msgstr ""
+
+#: shortcodes/header.php:84
+msgid "Title Style"
+msgstr ""
+
+#: shortcodes/header.php:94
+msgid "Decoration Line as Linetrough"
+msgstr ""
+
+#: shortcodes/header.php:95
+msgid "Decoration Line above Title"
+msgstr ""
+
+#: shortcodes/header.php:101
+msgid "Lead Text"
+msgstr ""
+
+#: shortcodes/header.php:108
+msgid "Lead Text Margin Left"
+msgstr ""
+
+#: shortcodes/header.php:109 shortcodes/header.php:116
+msgid "(optional) - value in px , default: 0px"
+msgstr ""
+
+#: shortcodes/header.php:115
+msgid "Lead Text Margin Right"
+msgstr ""
+
+#: shortcodes/header.php:125
+msgid "Decoration Line Height"
+msgstr ""
+
+#: shortcodes/header.php:126
+msgid "(optional) - value in px , default: 1px"
+msgstr ""
+
+#: shortcodes/header.php:136 shortcodes/team-member.php:212
+msgid "Decoration Line Width"
+msgstr ""
+
+#: shortcodes/header.php:137
+msgid "(optional) - value in % , default: 15%"
+msgstr ""
+
+#: shortcodes/header.php:150
+msgid "Accent Color"
+msgstr ""
+
+#: shortcodes/header.php:151
+msgid ""
+"Depending the on the chosen style the accent color can be a background or "
+"decoration line."
+msgstr ""
+
+#: shortcodes/header.php:167
+msgid "Lead Color"
+msgstr ""
+
+#: shortcodes/header.php:173
+msgid "Lead Accent Color"
+msgstr ""
+
+#: shortcodes/header.php:174
+#, php-format
+msgid "(optional) - use: %s inside your lead text to apply this color."
+msgstr ""
+
+#: shortcodes/header.php:180
+msgid "Lead Accent Font Weight"
+msgstr ""
+
+#: shortcodes/btn.php:214
+msgid "Font Weight"
+msgstr ""
+
+#: shortcodes/btn.php:239 shortcodes/big-icon.php:90
+msgid "Text Transform"
+msgstr ""
+
+#: shortcodes/btn.php:252
+msgid "Letter Spacing"
+msgstr ""
+
+#: shortcodes/btn.php:268
+msgid "Button Spacing"
+msgstr ""
+
+#: shortcodes/quote-rotator-2.php:36
+msgid "Quote Rotator 2"
+msgstr ""
+
+#: shortcodes/quote-rotator-2.php:143 shortcodes/quote-rotator.php:143
+msgid "Author Name Color"
+msgstr ""
+
+#: shortcodes/quote-rotator-2.php:155 shortcodes/quote-rotator.php:155
+msgid "Origin Color"
+msgstr ""
+
+#: shortcodes/quote-rotator-2.php:190 shortcodes/quote-rotator.php:191
+msgid "Line Height"
+msgstr ""
+
+#: shortcodes/quote-rotator-2.php:197 shortcodes/quote-rotator.php:198
+msgid "Origin Font Weight"
+msgstr ""
+
+#: shortcodes/quote-rotator-2.php:250
+msgid "Company Logo"
+msgstr ""
+
+#: shortcodes/quote-rotator-2.php:251
+msgid "recommended size 64x64"
+msgstr ""
+
+#: shortcodes/quote-rotator-2.php:257 shortcodes/quote-rotator.php:252
+msgid "Origin"
+msgstr ""
+
+#: shortcodes/count-up.php:62
+msgid "Caption Color"
+msgstr ""
+
+#: shortcodes/count-up.php:73
+msgid "Count Up to"
+msgstr ""
+
+#: shortcodes/count-up.php:80
+msgid "Counter Caption"
+msgstr ""
+
+#: shortcodes/count-up.php:91
+msgid "None"
+msgstr ""
+
+#: shortcodes/count-up.php:92
+msgid "Capitalize"
+msgstr ""
+
+#: shortcodes/count-up.php:93
+msgid "Inherit"
+msgstr ""
+
+#: shortcodes/count-up.php:94
+msgid "Lowercase"
+msgstr ""
+
+#: shortcodes/count-up.php:95
+msgid "Uppercase"
+msgstr ""
+
+#: shortcodes/count-up.php:101
+msgid "Counter Caption Font Size"
+msgstr ""
+
+#: shortcodes/team-member.php:34
+msgid "Team Member"
+msgstr ""
+
+#: shortcodes/team-member.php:43
+msgid "Name"
+msgstr ""
+
+#: shortcodes/team-member.php:56
+msgid "Occupation"
+msgstr ""
+
+#: shortcodes/team-member.php:68
+msgid "Social Profiles"
+msgstr ""
+
+#: shortcodes/team-member.php:85
+msgid "Profile Link"
+msgstr ""
+
+#: shortcodes/team-member.php:101
+msgid "Box Style"
+msgstr ""
+
+#: shortcodes/team-member.php:105
+msgid "Member Style One"
+msgstr ""
+
+#: shortcodes/team-member.php:106
+msgid "Member Style Two"
+msgstr ""
+
+#: shortcodes/team-member.php:107
+msgid "Member Style Three"
+msgstr ""
+
+#: shortcodes/team-member.php:108
+msgid "Member Style Four"
+msgstr ""
+
+#: shortcodes/team-member.php:128
+msgid "Name Color"
+msgstr ""
+
+#: shortcodes/team-member.php:134
+msgid "Occupation Color"
+msgstr ""
+
+#: shortcodes/team-member.php:141
+msgid "Ocupation Font Weight"
+msgstr ""
+
+#: shortcodes/team-member.php:163
+msgid "Social Icon Color"
+msgstr ""
+
+#: shortcodes/team-member.php:170
+msgid "Social Icon Hover Color"
+msgstr ""
+
+#: shortcodes/team-member.php:177
+msgid "Overlay Color"
+msgstr ""
+
+#: shortcodes/team-member.php:188
+msgid "Decoration Line"
+msgstr ""
+
+#: shortcodes/team-member.php:229
+msgid "Decoration Line Style"
+msgstr ""
+
+#: shortcodes/probar-2.php:27
+msgid "Progress Bar Thin"
+msgstr ""
+
+#: shortcodes/probar-2.php:88
+msgid "Bar Percentage Background Color"
+msgstr ""
+
+#: shortcodes/probar-2.php:94
+msgid "Bar Percentage Background Color Opacity"
+msgstr ""
+
+#: shortcodes/media-slider.php:32
+msgid "Media Slider"
+msgstr ""
+
+#: shortcodes/media-slider.php:56
+msgid "Slide Type"
+msgstr ""
+
+#: shortcodes/media-slider.php:59
+msgid "image"
+msgstr ""
+
+#: shortcodes/media-slider.php:60
+msgid "video"
+msgstr ""
+
+#: shortcodes/media-slider.php:102
+msgid ""
+"Needs to be Vimeo or Youtube! If you are using vimeo please use the "
+"following link markup: https://vimeo.com/XXXXXXX"
+msgstr ""
+
+#: shortcodes/media-slider.php:114
+#, php-format
+msgid "%s. This images gets displayed until the video player loads."
+msgstr ""
+
+#: shortcodes/media-slider.php:296
+msgid "Video Play Icon Color"
+msgstr ""
+
+#: shortcodes/blog.php:37
+msgid "Posts to Display"
+msgstr ""
+
+#: shortcodes/blog.php:38
+msgid "Enter desired amount of posts to display."
+msgstr ""
+
+#: shortcodes/quote-rotator.php:36
+msgid "Quote Rotator"
+msgstr ""
+
+#: shortcodes/big-icon.php:27
+msgid "Big Icon"
+msgstr ""
+
+#: shortcodes/big-icon.php:73
+msgid "Slogan"
+msgstr ""
+
+#: shortcodes/big-icon.php:79
+msgid "Slogan Font Weight"
+msgstr ""
+
+#: shortcodes/big-icon.php:154
+msgid "Slogan Color"
+msgstr ""
+
+#. Name of the plugin
+msgid "Shortcodes by United Themes"
+msgstr ""
+
+#. Description of the plugin
+msgid "Brooklyn Shortcodes for Visual Composer"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.unitedthemes.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "United Themes"
+msgstr ""
+
+msgid "New message"
+msgstr ""
+
+msgid "New message 2"
+msgstr ""
+
+msgid "New message 3"
+msgstr ""

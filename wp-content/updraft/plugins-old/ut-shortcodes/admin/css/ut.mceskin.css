@@ -1,0 +1,50 @@
+.clearlooks2 {
+	box-shadow: 0 5px 15px rgba(0,0,0,0.7) !important;
+}
+
+.clearlooks2 .mceFocus .mceTop .mceLeft {
+	border-top-left-radius: 0px !important;
+}
+
+.clearlooks2 .mceFocus .mceTop .mceRight {
+	border-top-right-radius: 0px !important;
+}
+
+.clearlooks2 .mceTop span {
+
+}
+
+.clearlooks2 .mceMiddle span,
+.clearlooks2 .mceMiddle .mceLeft,
+.clearlooks2 .mceMiddle .mceRight,
+.clearlooks2 .mceBottom,
+.clearlooks2 .mceBottom .mceLeft,
+.clearlooks2 .mceBottom .mceCenter,
+.clearlooks2 .mceBottom .mceRight {
+	background-color: #fcfcfc !important;
+}
+
+.clearlooks2 .mceFocus .mceTop .mceLeft,
+.clearlooks2 .mceFocus .mceTop .mceRight {
+	background-color: #f3f3f3 !important;
+}
+
+.clearlooks2 .mceTop span,
+.clearlooks2 .mceFocus .mceTop span {
+	color: #222 !important;
+}
+
+.clearlooks2 .mceClose:before {
+	color: #666 !important;
+}
+.clearlooks2 .mceClose:hover:before {
+	color: #2ea2cc !important;
+}
+
+.clearlooks2 .mceTop {
+    border-bottom: 1px solid #CCCCCC !important;
+}
+.clearlooks2 .mceTop span {
+    color: #E5E5E5 !important;
+    font: 13px/24px "Open Sans",sans-serif !important;
+}

@@ -1,0 +1,111 @@
+.ut-range-slider-wrap {
+    position:relative;
+}
+
+.ut-range-slider-wrap .wpb-textinput {
+    display:none;
+}
+
+.ut-range-slider { 
+    height: 12px;
+    position: relative;
+    background: #FAFAFA;
+    border: 1px solid #DADADA;
+    margin: 20px 10px; 
+    left: 60px;
+    max-width: calc(100% - 90px);
+}
+
+.ut-range-value {
+    position: absolute;
+    top: -10px;
+    font-size: 14px;
+    display: block;
+    width: 40px;
+    text-align: center;  
+    padding: 6px;  
+    border: 1px solid #DADADA;
+    background: #FAFAFA;
+}
+
+.ut-range-value:after {
+    content: attr(data-unit);
+}
+
+.ut-range-slider.ui-slider .ui-slider-handle { 
+    background: #f1c40f; 
+    cursor:move;
+    display: block;
+    height: 24px; 
+    margin-top: -10px;
+    outline: 0;
+    position: absolute; 
+    border:4px solid #f1c40f; 
+}
+
+.ut-range-slider .ui-slider-range-min {
+    position:absolute;
+    height:12px;
+    background: #23282D;
+}
+
+.wpb_el_type_google_fonts .edit_form_line {
+    background: #FAFAFA;
+    padding: 10px 20px;
+    border: 1px solid #DADADA;
+    margin-bottom: 10px;
+}
+
+.wpb_el_type_google_fonts .edit_form_line {
+    margin-top: 20px;
+}
+
+.wpb_el_type_google_fonts .edit_form_line .vc_row-fluid.vc_column {
+    padding: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ut-section-anchor-wrap {
+    background: #FAFAFA;
+    padding: 20px;
+    border: 1px solid #e5e5e5;
+}
+
+.ut-section-anchor-wrap .vc_description {
+    margin-bottom: 10px;
+}
+
+.ut-url-code{
+    padding: 10px;
+    display:block;
+    margin-bottom:10px;
+    margin-top:10px;
+}
+
+.wpb_ut_gallery_slider .attachment-thumbnails {
+    padding: 0;
+    margin: 0;
+    height: 50px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.wpb_ut_gallery_slider .attachment-thumbnails li {
+    height: 50px;
+    width: 50px;
+    overflow: hidden;
+    margin-right: 1px;
+    margin-bottom: 0;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.wpb_ut_gallery_slider .attachment-thumbnails img {
+    height: 50px;
+    width: auto;
+}
+
+.vc_description {
+    margin-bottom: 8px;
+}

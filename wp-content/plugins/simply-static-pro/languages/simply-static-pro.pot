@@ -1,0 +1,623 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simply Static Pro\n"
+"POT-Creation-Date: 2023-07-16 13:42+0200\n"
+"PO-Revision-Date: 2021-06-13 14:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: simply-static-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: simply-static-pro.php:140
+msgid ""
+"You need to update Simply Static to version 3.0 before continuing to use "
+"Simply Static Pro, as we made significant changes requiring an upgrade."
+msgstr ""
+
+#: simply-static-pro.php:157
+#, php-format
+msgid ""
+"The free version of Simply Static is required to use Simply Static Pro. You "
+"can get it %s."
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:52 src/build/class-ssp-build-meta.php:94
+msgid "URLs"
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:54 src/build/class-ssp-build-meta.php:99
+msgid ""
+"Add URLs you want to export or delete here (one per line). Simply Static "
+"will export or delete those URLs on your static site."
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:57 src/build/class-ssp-build-meta.php:109
+msgid "Files and Directories"
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:59 src/build/class-ssp-build-meta.php:114
+msgid ""
+"Add paths to files or directories (one per line). Simply Static will export "
+"or delete those files and directories on your static site."
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:60 src/build/class-ssp-build-meta.php:115
+#, php-format
+msgid "Example: %s"
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:60 src/build/class-ssp-build-meta.php:115
+msgid "my-file.pdf"
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:63 src/build/class-ssp-build-meta.php:102
+#, php-format
+msgid "Wildcard Example: %s"
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:63 src/build/class-ssp-build-meta.php:102
+msgid "simple-*"
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:64 src/build/class-ssp-build-meta.php:103
+msgid "This will try to find all pages that match that in URL"
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:69 src/build/class-ssp-build-meta.php:120
+msgid "Export Assets"
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:72 src/build/class-ssp-build-meta.php:126
+msgid "Export Assets such as CSS, JS and images found on page."
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:156
+msgid "Name"
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:157
+msgid "Static Site Actions"
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:179
+msgid "Export Static"
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:184
+msgid "Delete Static"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:63
+msgid "Successfully deleted files."
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:64
+msgid "There was a problem deleting the files."
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:95
+#: src/build/class-ssp-build-settings.php:96
+#: src/build/class-ssp-build-settings.php:127
+msgid "Builds"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:110
+msgctxt "taxonomy general name"
+msgid "Builds"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:111
+msgctxt "taxonomy singular name"
+msgid "Build"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:112
+msgid "Search Builds"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:113
+msgid "Popular Builds"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:114
+msgid "All Builds"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:117
+msgid "Name of the build"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:118
+msgid "Back to Builds"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:119
+msgid "Edit Build"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:120
+msgid "Update Build"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:121
+msgid "Add New Build"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:122
+msgid "New Build Name"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:123
+msgid "Separate builds with commas"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:124
+msgid "Add or remove builds"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:125
+msgid "Choose from the most used builds"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:126
+msgid "No builds found."
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:217
+#: src/build/class-ssp-build-settings.php:220
+msgid "View static URL"
+msgstr ""
+
+#: src/build/class-ssp-build.php:171
+msgid ""
+"Could not delete any files. Please make sure that the config directory is "
+"writeable."
+msgstr ""
+
+#: src/build/class-ssp-build.php:219 src/build/class-ssp-build.php:223
+#: src/build/class-ssp-build.php:227 src/single/class-ssp-single.php:585
+#: src/single/class-ssp-single.php:589 src/single/class-ssp-single.php:593
+msgid "Deleted file on path"
+msgstr ""
+
+#: src/build/class-ssp-build.php:247 src/single/class-ssp-single.php:613
+msgid ""
+"The file could not be deleted. Please check your access key in Simply Static "
+"-> Settings -> Deployment"
+msgstr ""
+
+#: src/build/class-ssp-build.php:355 src/single/class-ssp-single.php:343
+msgid "Additional URL"
+msgstr ""
+
+#: src/build/class-ssp-build.php:672
+msgid "Additional File"
+msgstr ""
+
+#: src/build/class-ssp-build.php:686
+msgid "Additional Dir"
+msgstr ""
+
+#: src/class-ssp-helper.php:109
+msgid "Config File"
+msgstr ""
+
+#: src/deployment/aws-s3/class-ssp-aws-deploy-task.php:62
+#: src/deployment/aws-s3/class-ssp-aws-deploy-task.php:68
+#: src/deployment/bunny-cdn/class-ssp-bunny-deploy-task.php:59
+#: src/deployment/digitalocean/class-ssp-digitalocean-deploy-task.php:62
+#: src/deployment/digitalocean/class-ssp-digitalocean-deploy-task.php:68
+#, php-format
+msgid "Uploaded %d of %d pages/files"
+msgstr ""
+
+#: src/deployment/aws-s3/class-ssp-aws-empty-task.php:51
+msgid "Emptying S3 Bucket..."
+msgstr ""
+
+#: src/deployment/bunny-cdn/class-ssp-bunny-deploy-task.php:66
+msgid "Destination URL:"
+msgstr ""
+
+#: src/deployment/github/class-ssp-github-commit-task.php:126
+#, php-format
+msgid ""
+"Comitted %d of %d pages/files (Your hourly GitHub API rate limit: %d/%d "
+"requests left)"
+msgstr ""
+
+#: src/deployment/github/class-ssp-github-commit-task.php:141
+#, php-format
+msgid "Comitted %d of %d pages/files"
+msgstr ""
+
+#: src/deployment/github/class-ssp-github-repository.php:131
+#: src/deployment/github/class-ssp-github-repository.php:133
+msgid "This repository was created with Simply Static Pro"
+msgstr ""
+
+#: src/deployment/github/class-ssp-github-repository.php:137
+msgid "Added the sample file."
+msgstr ""
+
+#: src/deployment/github/class-ssp-github-repository.php:139
+msgid "Repository was successfully created."
+msgstr ""
+
+#: src/deployment/github/class-ssp-github-repository.php:167
+msgid "Repository was successfully deleted."
+msgstr ""
+
+#: src/deployment/tiiny-host/class-ssp-tiiny-deploy-task.php:34
+msgid "Creating the ZIP file and sending it to Tiiny.host."
+msgstr ""
+
+#: src/deployment/tiiny-host/class-ssp-tiiny-deploy-task.php:41
+msgid "Finshed the deployment to Tiiny.host"
+msgstr ""
+
+#: src/deployment/tiiny-host/class-ssp-tiiny-deploy-task.php:45
+msgid ""
+"There was an error submitting the ZIP file to Tiiny.host - please review "
+"your connection details."
+msgstr ""
+
+#: src/deployment/tiiny-host/class-ssp-tiiny-updater.php:49
+msgid "Unable to create ZIP archive"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:49
+msgid "Form Configuration"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:76
+msgid "Contact Form 7"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:77
+msgid "Gravity Forms"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:78
+msgid "External Service"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:94
+msgid "Choose A Tool"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:105
+msgid "Choose the tool to process the form (Plugin or external service)."
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:108
+msgid "Form ID"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:111
+msgid "Optional: Only required when using a form plugin."
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:114
+msgid "Subject Attribute"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:117
+msgid ""
+"Optional: Only required when using a form plugin. Add the form attribute for "
+"the subject of your mail."
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:120
+msgid "Name Attributes"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:123
+msgid "Add a comma-separated list of the name attributes of your form."
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:126
+msgid "Message"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:129
+msgid ""
+"Use HTML to format your message. You can use the provided name attributes as "
+"they will automatically replaced with the added values from the submitted "
+"form."
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:134
+msgid "E-Mail Address"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:137
+msgid "Add the e-mail where the e-mail should be sent to."
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:140
+msgid "Additional Headers"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:144
+msgid ""
+"Optional: You can add addtional headers to add CC, BCC or Reply to e-mails "
+"here. You can add multiple headers here by separating them with comma."
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:147
+msgid "Endpoint"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:151
+msgid ""
+"Add an endpoint URL from <a target=\"_blank\" href=\"https://zapier.com/"
+"\">Zapier</a>, <a target=\"_blank\" href=\"https://ifttt.com/\">IFTT</a> or "
+"use the Simply Static endpoint."
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:152
+msgid "Simply Static Endpoint"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:156
+msgid "Redirect URL"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:160
+msgid "Redirect a user after successful submission to this URL."
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:108
+#: src/form/class-ssp-form-settings.php:109
+msgid "Forms"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:123
+msgctxt "Post type general name"
+msgid "Forms"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:124
+msgctxt "Post type singular name"
+msgid "Form"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:125
+msgctxt "Admin Menu text"
+msgid "Forms"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:126
+msgctxt "Add New on Toolbar"
+msgid "Form"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:127
+msgid "Add New"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:128
+msgid "Add New Form"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:129
+msgid "New Form"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:130
+msgid "Edit Form"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:131
+msgid "View Form"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:132
+msgid "All Forms"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:133
+msgid "Search Forms"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:134
+msgid "Parent Forms:"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:135
+msgid "No forms found."
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:136
+msgid "No forms found in Trash."
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:137
+msgctxt ""
+"Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Form Cover Image"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:138
+msgctxt ""
+"Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+msgid "Set cover image"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:139
+msgctxt ""
+"Overrides the “Remove featured image” phrase for this post type. Added in 4.3"
+msgid "Remove cover image"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:140
+msgctxt ""
+"Overrides the “Use as featured image” phrase for this post type. Added in 4.3"
+msgid "Use as cover image"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:141
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”. "
+"Added in 4.4"
+msgid "Form archives"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:142
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post). Added in 4.4"
+msgid "Insert into form"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:143
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used "
+"when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this form"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:144
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter forms list"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:145
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Forms list navigation"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:146
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Forms list"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:210
+msgid ""
+"The config file could not be created. Please make sure that the config "
+"directory is writeable."
+msgstr ""
+
+#: src/integrations/class-ssp-multisite.php:108
+msgid "Generate Static Site for:"
+msgstr ""
+
+#: src/minifier/class-ssp-minify-task.php:35
+msgid "Finding Files to Minify."
+msgstr ""
+
+#: src/minifier/class-ssp-minify-task.php:41
+#, php-format
+msgid "Found %d files to minify."
+msgstr ""
+
+#: src/minifier/class-ssp-minify-task.php:42
+msgid "Minifying..."
+msgstr ""
+
+#: src/minifier/class-ssp-minify-task.php:46
+msgid "Minified."
+msgstr ""
+
+#: src/search/class-ssp-search-algolia.php:113
+#: src/search/class-ssp-search-fuse.php:197
+msgid ""
+"The index file could not be created. Please make sure that the config "
+"directory is writeable."
+msgstr ""
+
+#: src/search/class-ssp-search-fuse.php:105
+msgid "Search"
+msgstr ""
+
+#: src/search/class-ssp-search-fuse.php:107
+msgid "No results found."
+msgstr ""
+
+#: src/search/class-ssp-search-fuse.php:138
+msgid ""
+"The config file could not be deleted. Please make sure that the config "
+"directory is writeable."
+msgstr ""
+
+#: src/search/class-ssp-search-task.php:83
+#, php-format
+msgid "Indexed %d of %d pages"
+msgstr ""
+
+#: src/search/class-ssp-search-task.php:307
+msgid "There was an connection error with Algolia. Please check your settings."
+msgstr ""
+
+#: src/search/class-ssp-search-task.php:311
+msgid "Added the following URL to search index"
+msgstr ""
+
+#: src/single/class-ssp-single-meta.php:50
+#: src/single/class-ssp-single-meta.php:90
+msgid "Export static page"
+msgstr ""
+
+#: src/single/class-ssp-single-meta.php:51
+msgid "Publish"
+msgstr ""
+
+#: src/single/class-ssp-single-meta.php:69
+msgid "Simply Static"
+msgstr ""
+
+#: src/single/class-ssp-single-meta.php:96
+msgid "Include assets found on this page (CSS, JavaScript and images)"
+msgstr ""
+
+#: src/single/class-ssp-single-meta.php:101
+msgid "Delete static page"
+msgstr ""
+
+#: src/single/class-ssp-single-meta.php:108
+msgid ""
+"You have to publish your post before you can create a static version of it."
+msgstr ""
+
+#: src/single/class-ssp-single.php:323
+msgid "Related URL"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Simply Static Pro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://patrickposner.dev"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Enhances Simply Static with GitHub Integration, Forms, Comments and more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Patrick Posner"
+msgstr ""

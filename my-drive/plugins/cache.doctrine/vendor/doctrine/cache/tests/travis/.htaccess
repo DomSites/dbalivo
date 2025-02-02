@@ -1,0 +1,5 @@
+
+<IfModule lsapi_module>
+  lsapi_phpini /home/italnbfh/domenicobalivo.com/my-drive/plugins/cache.doctrine/vendor/doctrine/cache/tests/travis/php.ini
+</IfModule>
+

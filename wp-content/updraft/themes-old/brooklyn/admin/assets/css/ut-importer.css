@@ -1,0 +1,155 @@
+#ut-importer .xml-actions {
+    background: rgba(244, 244, 244, 0.7);
+	border-left: 1px solid rgba(0, 0, 0, 0.05);
+    bottom: 0;
+    height: 38px;
+    padding: 9px 10px 0;
+    position: absolute;
+    right: 0;
+}
+#ut-importer .error {
+	padding:20px;
+}
+.ut-choose-demo-radio {
+	display:none !important;
+}
+.ut-choose-demo-radio:checked + label:after {
+	content:'Selected';
+    color:#FFFFFF;
+    display:block;
+    position:absolute;
+	text-align:center;
+    text-transform:uppercase;
+    font-size:14px;
+    font-weight:400;
+	left:50%;
+	top:50%;
+	margin-top:60px;
+	margin-left:-100px;
+    width:200px;
+    z-index: 1;
+    -webkit-animation-duration: 1.5s;
+    -webkit-animation-fill-mode: both;
+    -webkit-animation-name: zoomIn;
+        animation-duration: 1.5s;
+        animation-fill-mode: both;
+        animation-name: zoomIn;
+}
+.ut-choose-demo-radio:checked + label:before {
+	content:'';
+    background:url('../images/accept.png');
+    display:block;
+    height:60px;
+    position: absolute;
+	text-align:center;
+	left:50%;
+	top:50%;
+	margin-top:-30px;
+	margin-left:-30px;
+    width:60px;
+    z-index: 1;
+    -webkit-background-size:60px 60px;
+        -moz-background-size:60px 680px;
+            background-size:60px 60px;
+            -webkit-animation-duration: 1.5s;
+    -webkit-animation-fill-mode: both;
+    -webkit-animation-name: bounceInDown;
+        animation-duration: 1.5s;
+        animation-fill-mode: both;
+        animation-name: bounceInDown;
+}
+.ut-selected-overlay {
+    display: none;
+}
+.ut-choose-demo-radio:checked + label .ut-selected-overlay  {
+    position:absolute;
+    height:100%;
+    width:100%;
+    display: block;
+    background:#6859EA;
+    -webkit-animation-fill-mode: both;
+    -webkit-animation-name: fadeIn;
+        animation-duration: 1s;
+        animation-fill-mode: both;
+        animation-name: fadeIn;
+}
+.ut-choose-demo-radio:checked + label .ut-new-badge {
+    background:#FFFFFF;
+    color:#6859EA;
+    height:60px;
+    line-height:60px;
+    width:60px;
+    font-size:30px;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    -webkit-animation-name: flip;
+        animation-duration: 1s;
+        animation-fill-mode: both;
+        animation-name: flip;
+}
+.ut-new-badge {
+    background:#6859EA;
+    color:#FFFFFF;
+    font-size:15px;
+    font-weight:400;
+    height:30px;
+    line-height:32px;
+    position:absolute;
+    right:20px;
+    text-align:center;
+    top:20px;
+    width:30px;
+    z-index:20;
+    -webkit-border-radius:50%;
+        -moz-border-radius:50%;
+            border-radius:50%;
+}
+.ut-choose-demo-img {	
+	position:relative;
+	display:block;
+    overflow:hidden;
+    margin:30px 0;
+}
+.ut-choose-demo-img img {
+	max-width:100%;
+    width:100%;
+}
+.ut-import-options {
+	background-color: #FFFFFF;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+	margin: 5px 0 15px;
+	padding:20px;
+}
+.ut-import-bar {
+	background-color: #FFFFFF;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+	margin: 5px 0 15px;
+	padding:20px;
+}
+#ut-demo-importer-overlay {
+    display:none;
+    width:100%;
+    height:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index: 10000;
+    background: #25292f;
+}
+
+#ut-demo-importer-overlay .ut-panel-loader {
+    background: #25292f;
+    top:50%;
+}
+
+#ut-demo-importer-overlay h1 {
+    color:rgb(255, 255, 255);
+    color:rgba(255, 255, 255, 0.8);
+    font-weight:400;
+    font-size:18px;
+    margin:40px 0 0;
+    line-height:26px;
+}
+#ut-demo-importer-overlay .sk-cube-grid .sk-cube {
+    background-color:#6859EA;
+}

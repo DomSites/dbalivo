@@ -1,0 +1,1409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simply Static Pro\n"
+"POT-Creation-Date: 2023-07-16 13:42+0200\n"
+"PO-Revision-Date: 2023-07-16 13:44+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: simply-static-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: simply-static-pro.php:140
+msgid ""
+"You need to update Simply Static to version 3.0 before continuing to use "
+"Simply Static Pro, as we made significant changes requiring an upgrade."
+msgstr ""
+"Du musst auf Version 3.0 von Simply Static aktualisieren, um Simply Static "
+"Pro weiterhin nutzen zu können."
+
+#: simply-static-pro.php:157
+#, php-format
+msgid ""
+"The free version of Simply Static is required to use Simply Static Pro. You "
+"can get it %s."
+msgstr ""
+"Die kostenlose Version von Simply Static wird benötigt, um die Pro-Version "
+"zu wenden. Du kannst sie hier herunteraden %s."
+
+#: src/build/class-ssp-build-meta.php:52 src/build/class-ssp-build-meta.php:94
+msgid "URLs"
+msgstr "URLs"
+
+#: src/build/class-ssp-build-meta.php:54 src/build/class-ssp-build-meta.php:99
+msgid ""
+"Add URLs you want to export or delete here (one per line). Simply Static "
+"will export or delete those URLs on your static site."
+msgstr ""
+"Füge URLs die du exportieren oder löschen möchtest hier ein (eine URL pro "
+"Zeile). Simply Static wird nur diese URLs exportieren oder löschen."
+
+#: src/build/class-ssp-build-meta.php:57 src/build/class-ssp-build-meta.php:109
+msgid "Files and Directories"
+msgstr "Dateien und Verzeichnisse"
+
+#: src/build/class-ssp-build-meta.php:59 src/build/class-ssp-build-meta.php:114
+msgid ""
+"Add paths to files or directories (one per line). Simply Static will export "
+"or delete those files and directories on your static site."
+msgstr ""
+"Füge Pfade zu Dateien und Verzeichnisse die du exportieren/löschen möchtest "
+"hier ein (ein Pfad pro Zeile)."
+
+#: src/build/class-ssp-build-meta.php:60 src/build/class-ssp-build-meta.php:115
+#, php-format
+msgid "Example: %s"
+msgstr "Beispiel: %s"
+
+#: src/build/class-ssp-build-meta.php:60 src/build/class-ssp-build-meta.php:115
+msgid "my-file.pdf"
+msgstr "meine-datei.pdf"
+
+#: src/build/class-ssp-build-meta.php:63 src/build/class-ssp-build-meta.php:102
+#, php-format
+msgid "Wildcard Example: %s"
+msgstr "Wildcard-Beispiel: %s"
+
+#: src/build/class-ssp-build-meta.php:63 src/build/class-ssp-build-meta.php:102
+msgid "simple-*"
+msgstr "simple-*"
+
+#: src/build/class-ssp-build-meta.php:64 src/build/class-ssp-build-meta.php:103
+msgid "This will try to find all pages that match that in URL"
+msgstr "Dies wird versuchen alle Seiten zu finden die auf das Pattern matchen"
+
+#: src/build/class-ssp-build-meta.php:69 src/build/class-ssp-build-meta.php:120
+msgid "Export Assets"
+msgstr "Assets exportieren"
+
+#: src/build/class-ssp-build-meta.php:72 src/build/class-ssp-build-meta.php:126
+msgid "Export Assets such as CSS, JS and images found on page."
+msgstr ""
+"Exportiert Assets wie CSS und JavaScript-Dateien sowie Bilder die auf der "
+"Seite eingebunden sind."
+
+#: src/build/class-ssp-build-meta.php:156
+msgid "Name"
+msgstr "Name"
+
+#: src/build/class-ssp-build-meta.php:157
+msgid "Static Site Actions"
+msgstr "Static Site Aktionen"
+
+#: src/build/class-ssp-build-meta.php:179
+msgid "Export Static"
+msgstr "Statisch exportieren"
+
+#: src/build/class-ssp-build-meta.php:184
+msgid "Delete Static"
+msgstr "Statisch löschen"
+
+#: src/build/class-ssp-build-settings.php:63
+msgid "Successfully deleted files."
+msgstr "Dateien erfolgreich gelöscht."
+
+#: src/build/class-ssp-build-settings.php:64
+msgid "There was a problem deleting the files."
+msgstr "Es gab ein Problem beim Löschen der Dateien."
+
+#: src/build/class-ssp-build-settings.php:95
+#: src/build/class-ssp-build-settings.php:96
+#: src/build/class-ssp-build-settings.php:127
+msgid "Builds"
+msgstr "Builds"
+
+#: src/build/class-ssp-build-settings.php:110
+msgctxt "taxonomy general name"
+msgid "Builds"
+msgstr "Builds"
+
+#: src/build/class-ssp-build-settings.php:111
+msgctxt "taxonomy singular name"
+msgid "Build"
+msgstr "Build"
+
+#: src/build/class-ssp-build-settings.php:112
+msgid "Search Builds"
+msgstr "Durchsuche Builds"
+
+#: src/build/class-ssp-build-settings.php:113
+msgid "Popular Builds"
+msgstr "Populäre Builds"
+
+#: src/build/class-ssp-build-settings.php:114
+msgid "All Builds"
+msgstr "Alle Builds"
+
+#: src/build/class-ssp-build-settings.php:117
+msgid "Name of the build"
+msgstr "Name des Builds"
+
+#: src/build/class-ssp-build-settings.php:118
+msgid "Back to Builds"
+msgstr "Zurück zu Builds"
+
+#: src/build/class-ssp-build-settings.php:119
+msgid "Edit Build"
+msgstr "Build bearbeiten"
+
+#: src/build/class-ssp-build-settings.php:120
+msgid "Update Build"
+msgstr "Build aktualisieren"
+
+#: src/build/class-ssp-build-settings.php:121
+msgid "Add New Build"
+msgstr "Neuen Build hinzufügen"
+
+#: src/build/class-ssp-build-settings.php:122
+msgid "New Build Name"
+msgstr "Neuer Build Name"
+
+#: src/build/class-ssp-build-settings.php:123
+msgid "Separate builds with commas"
+msgstr "Trenne Builds mit Komma"
+
+#: src/build/class-ssp-build-settings.php:124
+msgid "Add or remove builds"
+msgstr "Hinzufügen oder entfernen von Builds"
+
+#: src/build/class-ssp-build-settings.php:125
+msgid "Choose from the most used builds"
+msgstr "Wähle aus meist genutzten Builds"
+
+#: src/build/class-ssp-build-settings.php:126
+msgid "No builds found."
+msgstr "Keine Builds gefunden."
+
+#: src/build/class-ssp-build-settings.php:217
+#: src/build/class-ssp-build-settings.php:220
+msgid "View static URL"
+msgstr "Statische URL ansehen"
+
+#: src/build/class-ssp-build.php:171
+msgid ""
+"Could not delete any files. Please make sure that the config directory is "
+"writeable."
+msgstr ""
+"Es konnten keine Dateien gelöscht werden. Bitte stelle sicher, dass das "
+"Verzeichnis beschreibbar ist."
+
+#: src/build/class-ssp-build.php:219 src/build/class-ssp-build.php:223
+#: src/build/class-ssp-build.php:227 src/single/class-ssp-single.php:585
+#: src/single/class-ssp-single.php:589 src/single/class-ssp-single.php:593
+msgid "Deleted file on path"
+msgstr "Datei wurde erfolgreich gelöscht"
+
+#: src/build/class-ssp-build.php:247 src/single/class-ssp-single.php:613
+msgid ""
+"The file could not be deleted. Please check your access key in Simply Static "
+"-> Settings -> Deployment"
+msgstr ""
+"Die Datei konnte nicht gelöscht werden. Bitte überprüfe deinen Access-Key in "
+"Simply Static -> Settings -> Deployment -> Access Key"
+
+#: src/build/class-ssp-build.php:355 src/single/class-ssp-single.php:343
+msgid "Additional URL"
+msgstr "Zusätzliche URL"
+
+#: src/build/class-ssp-build.php:672
+msgid "Additional File"
+msgstr "Zusätzliche Datei"
+
+#: src/build/class-ssp-build.php:686
+msgid "Additional Dir"
+msgstr "Zusätzliches Verzeichnis"
+
+#: src/class-ssp-helper.php:109
+msgid "Config File"
+msgstr "Konfigurations-Datei"
+
+#: src/deployment/aws-s3/class-ssp-aws-deploy-task.php:62
+#: src/deployment/aws-s3/class-ssp-aws-deploy-task.php:68
+#: src/deployment/bunny-cdn/class-ssp-bunny-deploy-task.php:59
+#: src/deployment/digitalocean/class-ssp-digitalocean-deploy-task.php:62
+#: src/deployment/digitalocean/class-ssp-digitalocean-deploy-task.php:68
+#, php-format
+msgid "Uploaded %d of %d pages/files"
+msgstr "%d von %d Seiten/Dateien hinzugefügt/aktualisiert"
+
+#: src/deployment/aws-s3/class-ssp-aws-empty-task.php:51
+msgid "Emptying S3 Bucket..."
+msgstr "Leere S3 Bucket.."
+
+#: src/deployment/bunny-cdn/class-ssp-bunny-deploy-task.php:66
+msgid "Destination URL:"
+msgstr "Ziel-URL:"
+
+#: src/deployment/github/class-ssp-github-commit-task.php:126
+#, php-format
+msgid ""
+"Comitted %d of %d pages/files (Your hourly GitHub API rate limit: %d/%d "
+"requests left)"
+msgstr ""
+"%d von %d Seiten/Dateien übertragen (Dein stündliches GitHub API Limit: %d/"
+"%d Anfragen übrig.)"
+
+#: src/deployment/github/class-ssp-github-commit-task.php:141
+#, php-format
+msgid "Comitted %d of %d pages/files"
+msgstr "%d von %d Seiten/Dateien übertragen"
+
+#: src/deployment/github/class-ssp-github-repository.php:131
+#: src/deployment/github/class-ssp-github-repository.php:133
+msgid "This repository was created with Simply Static Pro"
+msgstr "Dieses Repository wurde mit Simply Static Pro erstellt"
+
+#: src/deployment/github/class-ssp-github-repository.php:137
+msgid "Added the sample file."
+msgstr "Bespiel-Datei hinzugefügt."
+
+#: src/deployment/github/class-ssp-github-repository.php:139
+msgid "Repository was successfully created."
+msgstr "Repository erfolgreich erstellt."
+
+#: src/deployment/github/class-ssp-github-repository.php:167
+msgid "Repository was successfully deleted."
+msgstr "Repository erfolgreich gelöscht."
+
+#: src/deployment/tiiny-host/class-ssp-tiiny-deploy-task.php:34
+msgid "Creating the ZIP file and sending it to Tiiny.host."
+msgstr "Zip-Datei erstellen und zu Tiiny.host senden."
+
+#: src/deployment/tiiny-host/class-ssp-tiiny-deploy-task.php:41
+msgid "Finshed the deployment to Tiiny.host"
+msgstr "Übertragung zu Tiiny.host abgeschlossen"
+
+#: src/deployment/tiiny-host/class-ssp-tiiny-deploy-task.php:45
+msgid ""
+"There was an error submitting the ZIP file to Tiiny.host - please review "
+"your connection details."
+msgstr ""
+"Es gab einen Fehler bei der Übertragung der ZIP-Datei zu Tiiny.host - bitte "
+"überprüfe deine Verbindungseinstellungen."
+
+#: src/deployment/tiiny-host/class-ssp-tiiny-updater.php:49
+msgid "Unable to create ZIP archive"
+msgstr "Die ZIP-Datei konnte nicht erstellt werden"
+
+#: src/form/class-ssp-form-meta.php:49
+msgid "Form Configuration"
+msgstr "Formular Konfiguration"
+
+#: src/form/class-ssp-form-meta.php:76
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: src/form/class-ssp-form-meta.php:77
+msgid "Gravity Forms"
+msgstr "Gravity Forms"
+
+#: src/form/class-ssp-form-meta.php:78
+msgid "External Service"
+msgstr "Externer Dienst"
+
+#: src/form/class-ssp-form-meta.php:94
+msgid "Choose A Tool"
+msgstr "Wähle ein Tool"
+
+#: src/form/class-ssp-form-meta.php:105
+msgid "Choose the tool to process the form (Plugin or external service)."
+msgstr ""
+"Wähle ein Tool zum Verarbeiten von Formularen (Plugin oder externer Dienst)."
+
+#: src/form/class-ssp-form-meta.php:108
+msgid "Form ID"
+msgstr "Formular ID"
+
+#: src/form/class-ssp-form-meta.php:111
+msgid "Optional: Only required when using a form plugin."
+msgstr "Optional: Nur notwendig, wenn ein Formular-Plugin benutzt wird."
+
+#: src/form/class-ssp-form-meta.php:114
+msgid "Subject Attribute"
+msgstr "Betreff-Attribut"
+
+#: src/form/class-ssp-form-meta.php:117
+msgid ""
+"Optional: Only required when using a form plugin. Add the form attribute for "
+"the subject of your mail."
+msgstr ""
+"Optional: Nur notwendig bei Nutzung eines Formular-Plugins. Füge das "
+"Attribut aus dem Formular hinzu, welches als Betreff in der E-Mail genutzt "
+"werden soll."
+
+#: src/form/class-ssp-form-meta.php:120
+msgid "Name Attributes"
+msgstr "Name-Attribute"
+
+#: src/form/class-ssp-form-meta.php:123
+msgid "Add a comma-separated list of the name attributes of your form."
+msgstr ""
+"Füge eine komma-separierte Liste von Name-Attributen aus deinem Formular "
+"hinzu."
+
+#: src/form/class-ssp-form-meta.php:126
+msgid "Message"
+msgstr "Nachricht"
+
+#: src/form/class-ssp-form-meta.php:129
+msgid ""
+"Use HTML to format your message. You can use the provided name attributes as "
+"they will automatically replaced with the added values from the submitted "
+"form."
+msgstr ""
+"Nutze HTML um deine Nachricht zu formatieren. Du kannst die Name-Attribute "
+"als Platzhalter benutzen, diese werden automatisch mit den dynamischen "
+"Werten aus dem Formular ersetzt."
+
+#: src/form/class-ssp-form-meta.php:134
+msgid "E-Mail Address"
+msgstr "E-Mail-Addresse"
+
+#: src/form/class-ssp-form-meta.php:137
+msgid "Add the e-mail where the e-mail should be sent to."
+msgstr ""
+"Trage die E-Mail-Adresse ein, an welche die E-Mail versendet werden soll."
+
+#: src/form/class-ssp-form-meta.php:140
+msgid "Additional Headers"
+msgstr "Zusätzliche Header"
+
+#: src/form/class-ssp-form-meta.php:144
+msgid ""
+"Optional: You can add addtional headers to add CC, BCC or Reply to e-mails "
+"here. You can add multiple headers here by separating them with comma."
+msgstr ""
+"Optional: Du kannst zusätzliche Header hinzufügen wie z.B. CC, BCC oder "
+"Reply-To. Trenne mehrere Header-Angaben mit einem Komma."
+
+#: src/form/class-ssp-form-meta.php:147
+msgid "Endpoint"
+msgstr "Endpunkt"
+
+#: src/form/class-ssp-form-meta.php:151
+msgid ""
+"Add an endpoint URL from <a target=\"_blank\" href=\"https://zapier.com/"
+"\">Zapier</a>, <a target=\"_blank\" href=\"https://ifttt.com/\">IFTT</a> or "
+"use the Simply Static endpoint."
+msgstr ""
+"Füge eine Endpunkt-URL von <a target=\"_blank\" href=\"https://zapier.com/"
+"\">Zapier</a>, <a target=\"_blank\" href=\"https://ifttt.com/\">IFTT</a> "
+"hinzu oder nutze den Endpunkt von Simply Static."
+
+#: src/form/class-ssp-form-meta.php:152
+msgid "Simply Static Endpoint"
+msgstr "Simply Static Endpunkt"
+
+#: src/form/class-ssp-form-meta.php:156
+msgid "Redirect URL"
+msgstr "Weiterleitungs-URL"
+
+#: src/form/class-ssp-form-meta.php:160
+msgid "Redirect a user after successful submission to this URL."
+msgstr ""
+"Leitet den Nutzer nach erfolgreichem Absenden des Formular auf diese URL "
+"weiter."
+
+#: src/form/class-ssp-form-settings.php:108
+#: src/form/class-ssp-form-settings.php:109
+msgid "Forms"
+msgstr "Formulare"
+
+#: src/form/class-ssp-form-settings.php:123
+msgctxt "Post type general name"
+msgid "Forms"
+msgstr "Formulare"
+
+#: src/form/class-ssp-form-settings.php:124
+msgctxt "Post type singular name"
+msgid "Form"
+msgstr "Formular"
+
+#: src/form/class-ssp-form-settings.php:125
+msgctxt "Admin Menu text"
+msgid "Forms"
+msgstr "Formulare"
+
+#: src/form/class-ssp-form-settings.php:126
+msgctxt "Add New on Toolbar"
+msgid "Form"
+msgstr "Formular"
+
+#: src/form/class-ssp-form-settings.php:127
+msgid "Add New"
+msgstr "Hinzufügen"
+
+#: src/form/class-ssp-form-settings.php:128
+msgid "Add New Form"
+msgstr "Formular hinzufügen"
+
+#: src/form/class-ssp-form-settings.php:129
+msgid "New Form"
+msgstr "Neues Formular"
+
+#: src/form/class-ssp-form-settings.php:130
+msgid "Edit Form"
+msgstr "Formular bearbeiten"
+
+#: src/form/class-ssp-form-settings.php:131
+msgid "View Form"
+msgstr "Formular ansehen"
+
+#: src/form/class-ssp-form-settings.php:132
+msgid "All Forms"
+msgstr "Alle Formulare"
+
+#: src/form/class-ssp-form-settings.php:133
+msgid "Search Forms"
+msgstr "Durchsuche Formulare"
+
+#: src/form/class-ssp-form-settings.php:134
+msgid "Parent Forms:"
+msgstr "Eltern-Formulare:"
+
+#: src/form/class-ssp-form-settings.php:135
+msgid "No forms found."
+msgstr "Keine Formulare gefunden."
+
+#: src/form/class-ssp-form-settings.php:136
+msgid "No forms found in Trash."
+msgstr "Keine Formulare im Papierkorb gefunden."
+
+#: src/form/class-ssp-form-settings.php:137
+msgctxt ""
+"Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Form Cover Image"
+msgstr "Formular-Beitragsbild"
+
+#: src/form/class-ssp-form-settings.php:138
+msgctxt ""
+"Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+msgid "Set cover image"
+msgstr "Beitragsbild setzen"
+
+#: src/form/class-ssp-form-settings.php:139
+msgctxt ""
+"Overrides the “Remove featured image” phrase for this post type. Added in 4.3"
+msgid "Remove cover image"
+msgstr "Beitragsbild entfernen"
+
+#: src/form/class-ssp-form-settings.php:140
+msgctxt ""
+"Overrides the “Use as featured image” phrase for this post type. Added in 4.3"
+msgid "Use as cover image"
+msgstr "Nutze dieses Beitragsbild"
+
+#: src/form/class-ssp-form-settings.php:141
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”. "
+"Added in 4.4"
+msgid "Form archives"
+msgstr "Formular-Archive"
+
+#: src/form/class-ssp-form-settings.php:142
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post). Added in 4.4"
+msgid "Insert into form"
+msgstr "In Formular einfügen"
+
+#: src/form/class-ssp-form-settings.php:143
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used "
+"when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this form"
+msgstr "Zum Formular hochladen"
+
+#: src/form/class-ssp-form-settings.php:144
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter forms list"
+msgstr "Formular-Liste"
+
+#: src/form/class-ssp-form-settings.php:145
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Forms list navigation"
+msgstr "Formular-Liste-Navigation"
+
+#: src/form/class-ssp-form-settings.php:146
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Forms list"
+msgstr "Formular-Liste"
+
+#: src/form/class-ssp-form-settings.php:210
+msgid ""
+"The config file could not be created. Please make sure that the config "
+"directory is writeable."
+msgstr ""
+"Die Konfigurationsdatei konnte nicht erstellt werden. Bitte prüfe, dass das "
+"Verzeichnis beschreibbar ist."
+
+#: src/integrations/class-ssp-multisite.php:108
+msgid "Generate Static Site for:"
+msgstr "Statische Seite genieren für:"
+
+#: src/minifier/class-ssp-minify-task.php:35
+msgid "Finding Files to Minify."
+msgstr "Finde Dateien für die Minifizierung."
+
+#: src/minifier/class-ssp-minify-task.php:41
+#, php-format
+msgid "Found %d files to minify."
+msgstr "%d Dateien für Minifizierung gefunden."
+
+#: src/minifier/class-ssp-minify-task.php:42
+msgid "Minifying..."
+msgstr "Minifiziere.."
+
+#: src/minifier/class-ssp-minify-task.php:46
+msgid "Minified."
+msgstr "Minifiziert."
+
+#: src/search/class-ssp-search-algolia.php:113
+#: src/search/class-ssp-search-fuse.php:197
+msgid ""
+"The index file could not be created. Please make sure that the config "
+"directory is writeable."
+msgstr ""
+"Die Index-Datei konnte nicht erstellt werden. Bitte prüfe, dass das "
+"Verzeichnis beschreibbar ist."
+
+#: src/search/class-ssp-search-fuse.php:105
+msgid "Search"
+msgstr "Suche"
+
+#: src/search/class-ssp-search-fuse.php:107
+msgid "No results found."
+msgstr "Keine Ergebnisse gefunden."
+
+#: src/search/class-ssp-search-fuse.php:138
+msgid ""
+"The config file could not be deleted. Please make sure that the config "
+"directory is writeable."
+msgstr ""
+"Die Datei konnte nicht gelöscht werden. Bitte prüfe, dass das Verzeichnis "
+"beschreibbar ist."
+
+#: src/search/class-ssp-search-task.php:83
+#, php-format
+msgid "Indexed %d of %d pages"
+msgstr "Indexiere %d von %d Seiten"
+
+#: src/search/class-ssp-search-task.php:307
+msgid "There was an connection error with Algolia. Please check your settings."
+msgstr ""
+"Es gab ein Verbindungsproblem zu Algolia. Bitte überprüfe deine "
+"Einstellungen."
+
+#: src/search/class-ssp-search-task.php:311
+msgid "Added the following URL to search index"
+msgstr "Folgende URL zum Index hinzugefügt"
+
+#: src/single/class-ssp-single-meta.php:50
+#: src/single/class-ssp-single-meta.php:90
+msgid "Export static page"
+msgstr "Statische Seite exportieren"
+
+#: src/single/class-ssp-single-meta.php:51
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+#: src/single/class-ssp-single-meta.php:69
+msgid "Simply Static"
+msgstr "Simply Static"
+
+#: src/single/class-ssp-single-meta.php:96
+msgid "Include assets found on this page (CSS, JavaScript and images)"
+msgstr "Assets die auf der Seite gefunden wurden hinzufügen (CSS, JS, Bilder)"
+
+#: src/single/class-ssp-single-meta.php:101
+msgid "Delete static page"
+msgstr "Statische Seite löschen"
+
+#: src/single/class-ssp-single-meta.php:108
+msgid ""
+"You have to publish your post before you can create a static version of it."
+msgstr ""
+"Du musst deinen Beitrag veröffentlichen bevor du ihn statisch exportieren "
+"kannst."
+
+#: src/single/class-ssp-single.php:323
+msgid "Related URL"
+msgstr "Verwandte URL"
+
+#. Plugin Name of the plugin/theme
+msgid "Simply Static Pro"
+msgstr "Simply Static Pro"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://patrickposner.dev"
+msgstr "https://patrickposner.de"
+
+#. Description of the plugin/theme
+msgid ""
+"Enhances Simply Static with GitHub Integration, Forms, Comments and more."
+msgstr ""
+"Erweitert Simply Static um GitHub-Integration, Formulare, Kommentare und "
+"mehr."
+
+#. Author of the plugin/theme
+msgid "Patrick Posner"
+msgstr "Patrick Posner"
+
+#~ msgid "Generate"
+#~ msgstr "Generieren"
+
+#~ msgid "Delete"
+#~ msgstr "Löschen"
+
+#~ msgid "Update"
+#~ msgstr "Aktualisieren"
+
+#~ msgid "Update the post on your static website."
+#~ msgstr "Beitrag auf statischer Seite aktualisieren."
+
+#~ msgid "Delete the post on your static website."
+#~ msgstr "Beitrag auf statischen Seite löschen."
+
+#~ msgid "Github"
+#~ msgstr "GitHub"
+
+#~ msgid "Tiiny.host"
+#~ msgstr "Tiiny.host"
+
+#~ msgid "BunnyCDN"
+#~ msgstr "BunnyCDN"
+
+#~ msgid ""
+#~ "When using Github please make sure you are using relative URLs and that "
+#~ "you have configured the necessary settings in Simply Static -> Settings -"
+#~ "> Deployment"
+#~ msgstr ""
+#~ "Wenn du GitHub benutzt, achte darauf \"Relative URLs\" in Simply Static -"
+#~ "> Einstellungen konfiguriert zu haben"
+
+#~ msgid ""
+#~ "When using BunnyCDN please make sure you are using relative URLs and that "
+#~ "you have configured the necessary settings in Simply Static -> Settings -"
+#~ "> Deployment"
+#~ msgstr ""
+#~ "Wenn du CDN benutzt, achte darauf \"Relative URLs\" in Simply Static -> "
+#~ "Einstellungen konfiguriert zu haben"
+
+#, php-format
+#~ msgid ""
+#~ "Deploying to %s is the easiest and fastest deployment option available in "
+#~ "Simply Static Pro."
+#~ msgstr "Deployment zu %s ist die schnellste Option in Simply Static Pro."
+
+#~ msgid "GitHub"
+#~ msgstr "GitHub"
+
+#~ msgid "Bunny CDN"
+#~ msgstr "Bunny CDN"
+
+#~ msgid "There is currently no Pull zone connected."
+#~ msgstr "Aktuell ist keine Pull-Zone verbunden."
+
+#~ msgid "Personal"
+#~ msgstr "Persönliches Konto"
+
+#~ msgid "Organization"
+#~ msgstr "Organisation"
+
+#~ msgid "yes"
+#~ msgstr "ja"
+
+#~ msgid "no"
+#~ msgstr "nein"
+
+#~ msgid "Delete Repository"
+#~ msgstr "Repository löschen"
+
+#~ msgid "Add Repository"
+#~ msgstr "Repository hinzufügen"
+
+#~ msgid "There is currently no repository."
+#~ msgstr "Aktuell gibt es kein Repository."
+
+#~ msgid "Deployment"
+#~ msgstr "Deployment"
+
+#~ msgid "Deployment provider"
+#~ msgstr "Deployment-Anbieter"
+
+#~ msgid ""
+#~ "Choose a deployment provider you like to use to export your static site "
+#~ "to."
+#~ msgstr ""
+#~ "Wähle einen Deployment-Anbieter zu dem du deine statische Seite "
+#~ "übertragen möchtest."
+
+#~ msgid "E-Mail"
+#~ msgstr "E-Mail"
+
+#~ msgid ""
+#~ "This field is auto-filled with the e-mail address used for activating "
+#~ "Simply Static Pro. An account will be created automatically on your first "
+#~ "deployment."
+#~ msgstr ""
+#~ "Diese Feld wird automatisch ausgefüllt. Es wird auch automatisch ein "
+#~ "Konto angelegt sobald du das erste Mal eine Übertragung startest."
+
+#~ msgid "Subdomain"
+#~ msgstr "Subdomain"
+
+#~ msgid ""
+#~ "That's the part before your TLD. Your full URL is the combination of the "
+#~ "subdomain plus the domain suffix."
+#~ msgstr "Das ist der Teil der URL vor der TLD."
+
+#~ msgid "Domain Suffix"
+#~ msgstr "Domain-Suffix"
+
+#, php-format
+#~ msgid ""
+#~ "This defaults to %s. If you have a custom domain configured in Tiiny."
+#~ "host, you can also use that one. Your URL will be %s"
+#~ msgstr ""
+#~ "Standardmäßig %s. Wenn du eine eigene Domain in Tiiny.host konfiguriert "
+#~ "hast kannst du auch diese benutzen. Deine URL wird sein %s"
+
+#~ msgid "Password Protection"
+#~ msgstr "Passwort-Schutz"
+
+#~ msgid ""
+#~ "Adding a password will activate password protection on your static site. "
+#~ "The website is only visible with the password."
+#~ msgstr ""
+#~ "Füge ein Password hinzu um den Passwortschutz zu aktivieren. Die Website "
+#~ "wird erst nach Eingabe des Passworts sichtbar sein."
+
+#~ msgid "Bunny CDN API Key"
+#~ msgstr "Bunny CDN API Schlüssel"
+
+#, php-format
+#~ msgid ""
+#~ "Enter your API Key from Bunny CDN. You can find your API-Key as described "
+#~ "%s"
+#~ msgstr ""
+#~ "Füge deinen API Schlüssel von Bunny CDN hinzu. Du kannst du den Schlüssel "
+#~ "wie %s beschrieben finden"
+
+#~ msgid "Storage Host"
+#~ msgstr "Storage-Host"
+
+#, php-format
+#~ msgid ""
+#~ "Depending on your location, you have a different storage host. You find "
+#~ "out which URL to use %s"
+#~ msgstr ""
+#~ "Basierend auf deinem Standort erhältst du einen unterschiedlichen Host. "
+#~ "Du kannst deinen Host hier herausfinden %s"
+
+#~ msgid "Bunny CDN Access Key"
+#~ msgstr "Bunny CDN Access-Key"
+
+#~ msgid ""
+#~ "Enter your Acess Key from Bunny CDN. You will find it within your storage "
+#~ "zone setttings within FTP & API Access -> Password."
+#~ msgstr ""
+#~ "Gebe den Access-Key von Bunny CDN hier ein. Du findest ihn innerhalb der "
+#~ "Storage Zone -> Einstellungen -> FTP & API Access -> Password."
+
+#~ msgid "Pull Zone"
+#~ msgstr "Pull-Zone"
+
+#~ msgid ""
+#~ "A pull zone is the connection of your CDN to the internet. Simply Static "
+#~ "will try to find an existing pull zone with the provided name, if there "
+#~ "is none it creates a new pull zone."
+#~ msgstr ""
+#~ "Eine Pull-Zone ist die Verbindung zwischen dem CDN und deiner Domain. "
+#~ "Diese muss in deinem CDN-Konto angelegt und der Name hier hinterlegt "
+#~ "werden."
+
+#~ msgid "Storage Zone"
+#~ msgstr "Storage-Zone"
+
+#~ msgid ""
+#~ "A storage zone contains your static files. Simply Static will try to find "
+#~ "an existing storage zone with the provided name, if there is none it "
+#~ "creates a new storage zone."
+#~ msgstr ""
+#~ "Eine Storage-Zone ist der physische Speicher für deine statischen "
+#~ "Dateien. Simply Static wird versuchen mit einer existierenden Storage-"
+#~ "Zone eine Verbindung herzustellen, sollte es keine finden, wird eine neue "
+#~ "automatisch erstellt."
+
+#~ msgid "Directory"
+#~ msgstr "Verzeichnis"
+
+#~ msgid ""
+#~ "[OPTIONAL] If you want to transfer the files to a specific sub directory "
+#~ "on your storage zone add the name of that directory here."
+#~ msgstr ""
+#~ "[Optional] Wenn du die Dateien in ein spezifisches Unterverzeichnis "
+#~ "deiner Storage Zone hochladen möchtest, füge das Verzeichnis hier zu."
+
+#~ msgid "404"
+#~ msgstr "404"
+
+#~ msgid "Relative path to your custom 404 page. For example /custom-404/"
+#~ msgstr ""
+#~ "Relativer Pfad zu deiner eigenen 404-Seite. Zum Beispiel /custom-404/"
+
+#~ msgid "CDN CNAME"
+#~ msgstr "CDN CNAME"
+
+#~ msgid ""
+#~ "This is the CNAME entry of your pull zone. Add a CNAME entry to the DNS "
+#~ "entries of your domain to connect it with your CDN."
+#~ msgstr ""
+#~ "Der CNAME deines CDNs. Diesen Wert trägst du bei deinem Domain-Hosting "
+#~ "als CNAME-Record für deine Domain ein. Danach ist deine statische Website "
+#~ "unter dieser Domain auch erreichbar."
+
+#, php-format
+#~ msgid ""
+#~ "We use GitHub to automate the deloyment. This allows you to easily "
+#~ "publish your static site to %s, %s, %s, %s or any other static hosting "
+#~ "provider."
+#~ msgstr ""
+#~ "Wir nutzen GitHub um die Bereitstellung auf einem Server zu "
+#~ "automatisieren. Das erlaubt uns sehr einfach unsere statische Website auf "
+#~ "%s, %s, %s, %s oder jedem anderen statischen Hosting-Anbieter hochzuladen."
+
+#~ msgid "Account"
+#~ msgstr "Konto"
+
+#~ msgid "Account Type"
+#~ msgstr "Konto-Typ"
+
+#~ msgid ""
+#~ "Choose the type of account you like to connect with and save the "
+#~ "settings. Depending on the account type the settings fields will change."
+#~ msgstr ""
+#~ "Wähle einen Konto-Typ für die Verbindung. Sobald du gespeichert hast, "
+#~ "ändern sich die Einstellungsoptionen."
+
+#~ msgid "Save Changes"
+#~ msgstr "Änderungen speichern"
+
+#~ msgid "Username"
+#~ msgstr "Nutzername"
+
+#, php-format
+#~ msgid "Enter your GitHub username. You can create an account for free %s"
+#~ msgstr ""
+#~ "Füge deinen GitHub-Nutzernamen ein. Einen Account kannst du hier "
+#~ "kostenlos erstellen %s"
+
+#~ msgid "Enter the name of your organization."
+#~ msgstr "Gebe den Namen deiner Organisation ein."
+
+#~ msgid ""
+#~ "Enter your GitHub email address. This will be used to commit files to "
+#~ "your repository."
+#~ msgstr ""
+#~ "Trage deine GitHub E-Mail-Adresse ein. Diese wird genutzt um Updates in "
+#~ "dein Repository zu committen."
+
+#~ msgid "Personal Access Token"
+#~ msgstr "Personal Access Token"
+
+#, php-format
+#~ msgid "You need a personal access token from GitHub. Get one %s"
+#~ msgstr "Ein Personal Access Token von GitHub. Erhalten einen hier %s"
+
+#~ msgid "Repository"
+#~ msgstr "Repository"
+
+#~ msgid "Organization Repositories"
+#~ msgstr "Organisation Repositories"
+
+#~ msgid ""
+#~ "You need to create the repository manually within your organization "
+#~ "before connecting it. The option \"Existing repository\" will be "
+#~ "automatically activated for organizations."
+#~ msgstr ""
+#~ "Du musst das Repository manuell in deiner Organisation anlegen. Die "
+#~ "Option \"Existierendes Repository\" wird automatisch aktiviert."
+
+#~ msgid "Name your repository"
+#~ msgstr "Name deines Repositories"
+
+#~ msgid ""
+#~ "Enter a name for your repository. This should be lowercase and without "
+#~ "any spaces or special characters."
+#~ msgstr ""
+#~ "Füge einen Namen für dein Repositories ein. Dieses sollte aus "
+#~ "Kleinbuchstaben bestehen und keine Sonderzeichen enthalten."
+
+#~ msgid "Visiblity of your repository"
+#~ msgstr "Sichtbarbeit deines Repositories"
+
+#~ msgid "Decide if you want to make your repository public or private."
+#~ msgstr "Entscheide ob dein Repository öffentlich oder privat sein soll."
+
+#~ msgid "Name your branch"
+#~ msgstr "Name deines Branches"
+
+#, php-format
+#~ msgid ""
+#~ "Simply Static automatically uses \"main\" as branch. You may want to "
+#~ "modify that for example to %s for GitHub Pages."
+#~ msgstr ""
+#~ "[OPTIONAL]  Vergebe einen eigenen Namen für deinen Branch. Simply Static "
+#~ "benutzt automatisch \"main\" als Branch. Manchmal möchte man das "
+#~ "anpassen, z.B. für %s für GitHub Pages."
+
+#~ msgid "Existing Repository?"
+#~ msgstr "Existierendes Repository?"
+
+#~ msgid ""
+#~ "If you want to connect an existing repository (required for "
+#~ "organizations) please activate this option."
+#~ msgstr ""
+#~ "Wenn du ein existierendes Repository verknüpfen möchtest aktiviere diese "
+#~ "Option."
+
+#~ msgid "Link to your repository"
+#~ msgstr "Link zu deinem Repository"
+
+#~ msgid "Actions"
+#~ msgstr "Aktionen"
+
+#~ msgid "Webhook URL"
+#~ msgstr "Webhook URL"
+
+#~ msgid ""
+#~ "Enter your Webhook URL here and Simply Static will send a POST request "
+#~ "after all files are commited to GitHub."
+#~ msgstr ""
+#~ "Gebe deine Webhook URL hier ein. Simply Static sendet einen POST-Request "
+#~ "nachdem alle Dateien zu GitHub übertragen wurden."
+
+#~ msgid "Reset repository"
+#~ msgstr "Repository zurücksetzen"
+
+#~ msgid ""
+#~ "This will delete and recreate your repository before committing files to "
+#~ "it within a full static export."
+#~ msgstr ""
+#~ "Diese Einstellung wird das Repository zurücksetzen und neu anlegen bevor "
+#~ "der statische Export ausgeführt wird."
+
+#~ msgid "Create form config"
+#~ msgstr "Formular-Konfigurationsdatei erstellen"
+
+#~ msgid "Created form config file"
+#~ msgstr "Formular-Konfigurationsdatei erstellt"
+
+#~ msgid "There was a problem creating the config file."
+#~ msgstr "Es gab ein Problem beim Erstellen deiner Konfigurationsdatei."
+
+#~ msgid "CORS"
+#~ msgstr "CORS"
+
+#~ msgid ""
+#~ "When using Forms and Comments in Simply Static Pro you may encouter CORS "
+#~ "issues as you make requests from your static website to your original one."
+#~ msgstr ""
+#~ "Beim Benutzen von Formularen oder Kommentaren in Simply Static Pro wirst "
+#~ "du vermutlich einen CORS-Fehler auf deiner statischen Website bekommen, "
+#~ "da du Anfragen von einer externen Domain machst."
+
+#~ msgid ""
+#~ "Due to the variety of server setups out there, you may need to make "
+#~ "changes on your server. if you need a more advanced solution try out"
+#~ msgstr ""
+#~ "Durch die verschiedenen Server-Setups ist es vielleicht notwendig "
+#~ "Anpassungen direkt dort zu machen.  Falls du eine umfangreiche Lösung "
+#~ "brauchst schaue dir dieses Plugin an"
+
+#~ msgid "Static URL"
+#~ msgstr "Statische URL"
+
+#~ msgid "Add the URL of your static website to allow CORS for it."
+#~ msgstr ""
+#~ "Füge die URL deiner statischen Website hier ein um CORS zu erlauben."
+
+#~ msgid "Fix CORS with method"
+#~ msgstr "Behebe CORS mit dieser Methode"
+
+#~ msgid "Choose one of the methods to allow CORS for your website."
+#~ msgstr "Wähle eine Methode um CORS-Fehler auf deiner Website zu beheben."
+
+#~ msgid ""
+#~ "Generate a form index file to use forms on your static website. This file "
+#~ "will be used to connect the form on your website with the connector you "
+#~ "added in Simply Static -> Forms. "
+#~ msgstr ""
+#~ "Generiere eine Formular-Index-Datei für deine statische Website. Diese "
+#~ "Datei wird benutzt, um Formulare auf deiner statischen Seite mit den "
+#~ "Formularen in Simply Static -> Formulare zu verknüpfen. "
+
+#~ msgid "Use forms?"
+#~ msgstr "Formulare benutzen?"
+
+#~ msgid "Decide whether or not you want to use forms on your static site."
+#~ msgstr ""
+#~ "Entscheide ob du Formulare auf deiner statischen Website verwenden "
+#~ "möchtest oder nicht."
+
+#~ msgid "Comments"
+#~ msgstr "Kommentare"
+
+#~ msgid ""
+#~ "Activate the usage of static comments. It uses a webhook to send the data "
+#~ "to the configured endpoint."
+#~ msgstr ""
+#~ "Aktiviere die Nutzung von statischen Kommentaren. Diese Funktion benutzt "
+#~ "einen Webhook und sendet die Daten an den konfigurierten Endpunkt."
+
+#~ msgid ""
+#~ "Make sure to save your permalinks in Settings->Permalinks after saving an "
+#~ "endpoint."
+#~ msgstr ""
+#~ "Stelle sicher, dass du deine Permalinks unter Einstellungen->Permalinks "
+#~ "speicherst, nachdem du einen Endpunkt gespeichert hast."
+
+#~ msgid "Use comments?"
+#~ msgstr "Kommentare benutzen?"
+
+#~ msgid "Decide whether or not you want to use comments on your static site."
+#~ msgstr ""
+#~ "Entscheide ob du Kommentare auf deiner statischen Website verwenden "
+#~ "möchtest oder nicht."
+
+#~ msgid "Comment Redirect"
+#~ msgstr "Weiterleitung nach Absenden des Kommentars"
+
+#~ msgid ""
+#~ "Due to the fact that the page needs to be regenerated after a comment was "
+#~ "added, you should redirect your user to a custom thank you for your "
+#~ "comment page."
+#~ msgstr ""
+#~ "Die Seite auf der ein Kommentar gemacht wurde, wird danach neugeneriert "
+#~ "um das Kommentar anzuzeigen. Dadurch macht es Sinn eine eigene Vielen "
+#~ "Dank-Seite für Kommentare zu haben. Nach Absenden eines Kommentars wird "
+#~ "dein Besucher darauf weitergeleitet. Im Hintergrund export Simply Static "
+#~ "die aktualisierte Seite erneut."
+
+#~ msgid ""
+#~ "The page will be generated and commited automatically, but it may take up "
+#~ "to a minute."
+#~ msgstr ""
+#~ "Die Seite wird generiert und automatisch committed, das kann allerdings "
+#~ "bis zu einer Minute dauern."
+
+#~ msgid ""
+#~ "Activate the usage of static search. It uses fuse.js or the Algolia API "
+#~ "and creates an complete index to search by title and content of each page."
+#~ msgstr ""
+#~ "Aktiviere die statische Suche. Simply Static arbeitet mit Fuse.js oder "
+#~ "der Algolia API und erstellt einen kompletten statischen Index der nach "
+#~ "Titel und Inhalt deine Seiten sucht."
+
+#~ msgid "Use search?"
+#~ msgstr "Suche benutzen?"
+
+#~ msgid "Decide whether or not you want to use search on your static site."
+#~ msgstr ""
+#~ "Entscheide ob du eine Suche auf deiner statischen Website verwenden "
+#~ "möchtest oder nicht."
+
+#~ msgid "Search-Type"
+#~ msgstr "Suche-Typ"
+
+#~ msgid ""
+#~ "Decide wich search type you want to use. Fuse runs locally based on file "
+#~ "and Algolia is an external API service."
+#~ msgstr ""
+#~ "Entscheide welchen Suche-Typen du nutzen möchtest. Fuse.js erstellt eine "
+#~ "lokale Datei und Algolia nutzt einen Cloud-Server via API."
+
+#~ msgid "Indexing"
+#~ msgstr "Indexierung"
+
+#~ msgid "CSS-Selector for Title"
+#~ msgstr "CSS-Selektor für den Titel"
+
+#~ msgid "Add the CSS selector which contains the title of the page/post"
+#~ msgstr ""
+#~ "Trage den CSS-Selector ein welche den Titel deiner Seite / deines "
+#~ "Beitrags enthält"
+
+#~ msgid "CSS-Selector for Content"
+#~ msgstr "CSS-Selektor für den Inhalt"
+
+#~ msgid "Add the CSS selector which contains the content of the page/post."
+#~ msgstr ""
+#~ "Trage den CSS-Selector ein welche den Inhalt deiner Seite / deines "
+#~ "Beitrags enthält."
+
+#~ msgid "CSS-Selector for Excerpt"
+#~ msgstr "CSS-Selektor für Auszug"
+
+#~ msgid "Add the CSS selector which contains the excerpt of the page/post."
+#~ msgstr ""
+#~ "Trage den CSS-Selector ein welche den Auszug deiner Seite / deines "
+#~ "Beitrags enthält."
+
+#~ msgid "Exclude URLs"
+#~ msgstr "URLs exkludieren"
+
+#~ msgid "Remove"
+#~ msgstr "Entfernen"
+
+#~ msgid "Add URL to Exclude"
+#~ msgstr "URL zum Exkludieren hinzufügen"
+
+#~ msgid ""
+#~ "Exclude URLs from indexing. You can use full URLs, parts of an URL or "
+#~ "plain words (like stop words)."
+#~ msgstr ""
+#~ "Exkludieren von URLs vom Index. Du kannst vollständige URLs, Fragmente "
+#~ "von URLs oder auch nur einzelne Wörter (Stopwörter) benutzen."
+
+#~ msgid "Fuse.js"
+#~ msgstr "Fuse.js"
+
+#~ msgid "Search Shortcode"
+#~ msgstr "Suche-Shortcode"
+
+#~ msgid ""
+#~ "Copy the shortcode and add it to your website. It renders a search box "
+#~ "with autosuggestion."
+#~ msgstr ""
+#~ "Kopiere den Shortcode und füge ihn in deine Website ein. An dieser Stelle "
+#~ "wird ein Such-Formular mit Autovervollständigung angezeigt."
+
+#~ msgid "Algolia"
+#~ msgstr "Algolia"
+
+#~ msgid "Application ID"
+#~ msgstr "Application ID"
+
+#~ msgid "Add your Algolia App ID here."
+#~ msgstr "Füge deine Algolia APP-ID hier ein."
+
+#~ msgid "Admin API Key"
+#~ msgstr "Admin API Key"
+
+#~ msgid "Add your Algolia Admin API Key here."
+#~ msgstr "Füge deinen Algolia Admin API Key hier ein."
+
+#~ msgid "Search-Only API Key"
+#~ msgstr "Seach-Only-API Key"
+
+#~ msgid ""
+#~ "Add your Algolia Search-Only API Key here. This is the only key that will "
+#~ "be visible on your static site."
+#~ msgstr ""
+#~ "Füge deinen Algolia Search-Only API Key hier ein. Dies ist der einzige "
+#~ "Schlüssel der auf deiner statischen Website sichtbar ist."
+
+#~ msgid "Name for your index"
+#~ msgstr "Name deines angelegten Such-Indexes"
+
+#~ msgid "Add your Algolia index name here. Default is simply_static"
+#~ msgstr "Füge den Namen deines Index ein. Standart ist simply_static"
+
+#~ msgid "CSS-Selector"
+#~ msgstr "CSS-Selektor"
+
+#~ msgid ""
+#~ "Add the CSS selector of your search element here. The default value is ."
+#~ "search-field"
+#~ msgstr ""
+#~ "Gebe den CSS-Selektor deines Suchfeldes hier ein. Standardmäßig wird ."
+#~ "search-field benutzt"
+
+#~ msgid ""
+#~ "Warning, you are currently running in development mode. Make sure to "
+#~ "remove define( 'SSP_DEV_MODE', true ); from your wp-config.php before you "
+#~ "run a new static export."
+#~ msgstr ""
+#~ "Warnung, du benutzt aktuell den Entwicklungsmodus. Stelle sicher, dass du "
+#~ "define( 'SSP_DEV_MODE', true ); aus deiner wp-config.php Datei entfernst "
+#~ "bevor du einen neuen statischen Export startest."
+
+#~ msgid "Starts to transfer pages/files to CDN"
+#~ msgstr "Beginne Übertragung der Seiten/Dateien zu CDN"
+
+#, php-format
+#~ msgid "Pushed %d pages/files to CDN"
+#~ msgstr "%d Seiten/Dateien zu CDN übertragen"
+
+#, php-format
+#~ msgid "The file located at %s could not be uploaded via FTP."
+#~ msgstr "Die Datei im Pfad %s konnte nicht via FTP hochgeladen werden."
+
+#~ msgid "CDN"
+#~ msgstr "CDN"
+
+#~ msgid "Starts to transfer pages/files to GitHub"
+#~ msgstr "Beginne Übertragung der Seiten/Dateien zu GitHub"
+
+#, php-format
+#~ msgid "Comitted %d pages/files to GitHub"
+#~ msgstr "%d Seiten/Dateien zu GitHub übertragen"
+
+#, php-format
+#~ msgid ""
+#~ "Deploying to an CDN is the easiest way to get your static website up and "
+#~ "running in no time. We currently support %s as a provider."
+#~ msgstr ""
+#~ "Das Übertragen auf ein CDN ist der einfachste Weg deine statische Website "
+#~ "online zu bringen. Aktuell unterstützen wir %s als Anbieter."
+
+#~ msgid "CDN Provider"
+#~ msgstr "CDN Anbieter"
+
+#~ msgid "Choose a CDN Provider you want to deploy to."
+#~ msgstr "Wähle einen CDN-Anbieter für die Übertragung."
+
+#~ msgid ""
+#~ "It's required to perform actions like uploading, deleting files and "
+#~ "clearing the cache of your zone."
+#~ msgstr ""
+#~ "Der Access-key ist notwendig um Aktionen wie das Hochladen und Löschen "
+#~ "von Dateien auf dem CDN zu ermöglichen."
+
+#, php-format
+#~ msgid ""
+#~ "Enter your GitHub username or the name of your organization. You can "
+#~ "create an account for free %s If you are using a repository from an "
+#~ "organization, please provide the name of the organization here."
+#~ msgstr ""
+#~ "Gebe deinen GitHub-Nutzernamen oder den Namen deiner Organization ein. "
+#~ "Erstelle ein Konto %s Wenn du das Repository einer Organization benutzt, "
+#~ "gebe bitte den Namen der Organization hier ein."
+
+#~ msgid ""
+#~ "You need to add the static URL in your CORS settings before you can "
+#~ "create a form configuration."
+#~ msgstr ""
+#~ "Du musst die URL deiner statischen Website angeben, bevor du eine "
+#~ "Konfigurationsdatei für deine Formulare erstellen lassen kannst."
+
+#~ msgid ""
+#~ "You need to add the static URL in your search settings before you can "
+#~ "create an index."
+#~ msgstr ""
+#~ "Du musst die URL deiner statischen Website angeben, bevor du einen Such-"
+#~ "Index erstellen lassen kannst."
+
+#~ msgid "Could not append the result to the search index."
+#~ msgstr "Konnte das Suchergebnis nicht dem Index hinzufügen."
+
+#~ msgid ""
+#~ "Add the URL of your static website to create a working index with correct "
+#~ "URLs for it."
+#~ msgstr ""
+#~ "Füge die URL deiner statischen Website hinzu um einen Such-Index "
+#~ "erstellen zu lassen und die korrekte URL hinterlegen zu lassen."
+
+#~ msgid "Generate static"
+#~ msgstr "Statisch generieren"
+
+#~ msgid ""
+#~ "Use this to generate a static version of the current page you are editing."
+#~ msgstr ""
+#~ "Nutze dies um eine statische Version deiner aktuellen Seite erstellen zu "
+#~ "lassen."
+
+#~ msgid ""
+#~ "Use this to delete the static version of the current page you are editing."
+#~ msgstr ""
+#~ "Nutze dies um die statische Version deiner aktuellen Seite zu löschen."
+
+#~ msgid "URLs to export"
+#~ msgstr "URLs für Export"
+
+#~ msgid ""
+#~ "Use this setting if you want to modify the directory to export all "
+#~ "generates pages/files from this build."
+#~ msgstr ""
+#~ "Nutze diese Einstellung, wenn du das Export-Verzeichnis für diesen Export "
+#~ "anpassen möchtest. Alle generierten Seiten/Dateien werden in diesen "
+#~ "Verzeichnis übertragen."
+
+#~ msgid "Additional URLs"
+#~ msgstr "Zusätzliche URLs"
+
+#~ msgid ""
+#~ "Simply Static Pro will create a static copy of any page it can find a "
+#~ "link to, starting at your domain root. If you want to create static "
+#~ "copies of pages or files that aren't linked to, add the URLs here (one "
+#~ "per line)."
+#~ msgstr ""
+#~ "Simply Static Pro erstellt eine statische Kopie jeder Seite die es finden "
+#~ "kann, beginnend mit deiner Startseite. Möchtest du zusätzliche Seiten "
+#~ "ergänzen auf welche nicht verlinkt wird, ergänze diese hier. Füge eine "
+#~ "URL je Zeile hinzu."
+
+#~ msgid "Comments Endpoint"
+#~ msgstr "Endpunkt für Kommentare"
+
+#~ msgid ""
+#~ "Activate this option to delete all files from the storage zone before "
+#~ "uploading the new ones on a full static export."
+#~ msgstr ""
+#~ "Aktiviere diese Option um alle existierenden Dateien in deiner Storage "
+#~ "Zone zu löschen bevor die neuen Dateien in einem vollen statischen Export "
+#~ "wieder übertragen werden."
+
+#~ msgid "GitHub User"
+#~ msgstr "GitHub User"
+
+#~ msgid ""
+#~ "Creates a JSON file that stores all necessary information to allow "
+#~ "sending form submissions from your static website."
+#~ msgstr ""
+#~ "Erstellt eine JSON Datei welche alle notwendigen Informationen zum "
+#~ "Absenden von Formularen auf deiner statischen Website enthält."
+
+#~ msgid "Create index"
+#~ msgstr "Index erstellen"
+
+#, php-format
+#~ msgid "Created search index for %d pages/files"
+#~ msgstr "Suchindex für %d Seiten/Dateien erstellt"
+
+#~ msgid "Create search index on static export?"
+#~ msgstr "Suchindex erstellen bei statischem Export?"
+
+#~ msgid ""
+#~ "Decide whether or not you want to crawl your static site and create a new "
+#~ "index file for your static search on the next static export."
+#~ msgstr ""
+#~ "Entscheide, ob du einen neuen Suchindex erstellen möchtest, sobald du den "
+#~ "nächsten statischen Export startest."
+
+#~ msgid "Creating form config file."
+#~ msgstr "Erstelle Formular-Konfigurationsdatei."
+
+#~ msgid "Start creating search index."
+#~ msgstr "Erstelle Such-Index."
