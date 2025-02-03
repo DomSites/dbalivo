@@ -222,7 +222,7 @@ textarea:focus {
 	select {
         padding-right: 28px;
 		background-color: #fff;
-		background-image: url("assets/img/select-arrow@2x.gif");
+		background-image: url("https://domsites.github.io/dbalivo/wp-content/themes/savoy/assets/img/select-arrow@2x.gif");
 		/*background-position: 98.5% 50%;*/
         background-position: calc(100% - 10px) 50%;
 		background-repeat: no-repeat;
